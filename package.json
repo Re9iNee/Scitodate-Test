@@ -1,0 +1,29 @@
+{
+  "name": "scitodate-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Re9iNee/Scitodate-Test.git"
+  },
+  "keywords": [
+    "api",
+    "scitodate",
+    "test",
+    "fullstack",
+    "react"
+  ],
+  "author": "Reza Attarzadeh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Re9iNee/Scitodate-Test/issues"
+  },
+  "homepage": "https://github.com/Re9iNee/Scitodate-Test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

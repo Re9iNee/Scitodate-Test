@@ -3,6 +3,7 @@ const formidable = require("formidable");
 const router = express.Router();
 
 router.post("/", (req, res) => {
+  // TODO: if uploads/ directory doesn't exist make one
   // TODO: use Paths module to define uploadDir
   // recommended: max file size: 2mb
   const form = formidable({

@@ -7,7 +7,7 @@ function App() {
         </div>
         <div>
           File:{" "}
-          <input type="file" name="someExpressFiles"/>
+          <input type="file" name="dataFile"/>
         </div>
         <input type="submit" value="Upload" />
       </form>

@@ -1,7 +1,8 @@
 const express = require("express");
 const app = express();
+const mongoose = require("mongoose");
 
-// Best to set a file limit on it express.json({limit: '1mb'})
+// Recommended: express.json({limit: '1mb'})
 app.use(express.json());
 
 require("dotenv").config();
@@ -16,3 +17,11 @@ app.get("/", (req, res) => {
 // Import Routes
 const databaseRoute = require("./routes/database");
 app.use("/database", databaseRoute);
+
+
+
+// Connect to DB
+mongoose.connect(
+  process.env.MONGODB_URI,
+  () => console.log("connected to DB!")
+);

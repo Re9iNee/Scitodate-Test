@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2021-08-30",
+    "topic_scores": [
+      0.5334556, 0, 0.3211962, 0.39037147, 0.563381, 0.49806005, 0.510192,
+      0.3956774, 0.45845628, 0.43297058
+    ],
+    "topics": [
+      "Synthetic cannabinoids",
+      "On demand",
+      "Biology",
+      "Neuroscience",
+      "Cannabinoid",
+      "Neuropsychopharmacology",
+      "Cannabinoid receptor",
+      "Biological psychiatry",
+      "Endocannabinoid system",
+      "Cannabis"
+    ],
+    "abstract": "Cannabinoids from the cannabis plant were one of the earliest psychoactive phytochemicals harnessed by humanity for their medicinal properties and remain one of the most frequently used and misused classes of chemicals in the world. Despite our long-standing history with cannabinoids, much more is said than is known regarding how these molecules influence the brain and behavior. We are in a rapidly evolving discovery phase regarding the neuroscience of cannabinoids. This period of insight began in the mid-1990s when it was discovered that phytocannabinoids (e.g., delta-9-tetrahydrocannabinol) act on G protein-coupled receptors (i.e., CB1/CB2) in the brain to produce their psychoactive effects. Shortly thereafter, it was discovered that endogenous ligands (i.e., endocannabinoids) exist for these receptor targets and, that they are synthetized on demand under a variety of physiological conditions. Thus, we can now study how phytochemicals, endogenous ligands, and synthetic/metabolic enzymes of the endocannabinoid system influence the brain and behavior by activating known receptor targets. Our increased ability to study cannabinoid interactions with the brain and behavior coincides with an increase in international interest in utilizing cannabinoids as a medicine. At the same time, the potency of, and administration routes by which cannabinoids are used is rapidly changing. And, these trends in cannabinoid misuse are producing lasting neural adaptations that have implications for mental health. In this special edition, we will summarize our recent period of discovery regarding how: 1) phytocannabinoids, synthetic cannabinoids and endocannabinoids act on the brain to produce behavioral effects; 2) cannabinoids can be harnessed to produce pharmacotherapeutic utility in the field of medicine; and 3) use of increasingly more cannabinoid variants through unique routes of administration alter the brain and behavior, especially when used in critical developmental periods like pregnancy and adolescence.",
+    "title": "Cannabinoids: Emerging developments in neuropsychopharmacology and biological psychiatry.",
+    "authors": [
+      {
+        "_id": "2136483839",
+        "name": "Erik B Oleson",
+        "email": "erik.oleson@ucdenver.edu",
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "2026344052",
+        "name": "Jibran Y Khokhar",
+        "email": "jkhokhar@uoguelph.ca",
+        "affiliation": "University of Guelph"
+      }
+    ]
+  }
+]

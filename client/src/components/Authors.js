@@ -3,19 +3,21 @@ import React from "react";
 export default class Authors extends React.Component {
   render() {
     return (
-    <div>
+      <div>
         <h1>Authors</h1>
         <h5>List of All Authors here</h5>
-        <input type="text" placeholder="search through Authors"/>
+        <input type="text" placeholder="search through Authors" />
         <ul>
-            <li>Wong</li>
+          <li>
+            <a href="#">Wong</a>
             <pre>Affilitaion</pre>
-        </ul>
-        <ul>
-            <li>Wong</li>
+          </li>
+          <li>
+            <a href="#">Wong</a>
             <pre>Affilitaion</pre>
+          </li>
         </ul>
-    </div>
+      </div>
     );
   }
 }

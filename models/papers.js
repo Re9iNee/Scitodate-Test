@@ -10,7 +10,7 @@ const PapersSchema = mongoose.Schema({
   topics: [String],
   title: String,
   abstract: String,
-  authors: [mongoose.Types.ObjectId],
+  authors: [String],
 });
 
 module.exports = mongoose.model("Papers", PapersSchema);

@@ -12,7 +12,7 @@ const AuthorsSchema = mongoose.Schema({
   email: String,
   affiliation: String,
   papers: [String],
-  coAuthors: [String],
+  coAuthors: [Number],
 });
 
 module.exports = mongoose.model("Authors", AuthorsSchema);

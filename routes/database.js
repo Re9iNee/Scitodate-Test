@@ -2,6 +2,9 @@ const express = require("express");
 const formidable = require("formidable");
 const router = express.Router();
 
+// Process Data
+const { processData } = require("../app");
+
 router.post("/", (req, res) => {
   // TODO: if uploads/ directory doesn't exist make one
   // TODO: use Paths module to define uploadDir
@@ -12,12 +15,17 @@ router.post("/", (req, res) => {
     // maxFileSize: 2 * 1024 * 1024,
     uploadDir: "./uploads",
   });
-  form.parse(req, (err, fields, files) => {
+  form.parse(req, async (err, fields, files) => {
     if (err) {
-      console.log("error", err);
+      console.log("error parsing form: ", err);
       return;
     }
-    res.status(200).json({ fields, files });
+    const file = files.dataFile;
+    const filePath = file.path;
+    await processData(filePath);
+    res
+      .status(200)
+      .json({ fields, files, message: "uploading file to database" });
   });
 });
 

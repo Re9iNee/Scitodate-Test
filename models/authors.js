@@ -11,8 +11,8 @@ const AuthorsSchema = mongoose.Schema({
   },
   email: String,
   affiliation: String,
-  papers: [mongoose.Types.ObjectId],
-  coAuthors: [mongoose.Types.ObjectId],
+  papers: [String],
+  coAuthors: [String],
 });
 
 module.exports = mongoose.model("Authors", AuthorsSchema);

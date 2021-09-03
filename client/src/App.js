@@ -1,5 +1,8 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Admin from "./components/Admin";
+import Authors from "./components/Authors";
+import Home from "./components/Home";
 
 class App extends React.Component {
   render() {
@@ -19,16 +22,6 @@ class App extends React.Component {
       </Router>
     );
   }
-}
-
-function Admin() {
-  return <pre>This is Admin Area</pre>
-}
-function Authors() {
-  return <pre>This is Authors List</pre>
-}
-function Home() {
-  return <pre>This is Home? </pre>
 }
 
 export default App;

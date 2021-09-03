@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const PapersSchema = mongoose.Schema({
   _id: {
-    Type: String,
+    type: String,
     required: true,
   },
   date: Date,

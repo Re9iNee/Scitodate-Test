@@ -12,8 +12,14 @@ router.get("/", async (req, res) => {
   }
 });
 
-router.get("/:id", (req, res) => {
+router.get("/:id", async (req, res) => {
   // return author with the id of :id
+  try {
+    const result = await Authors.findById(req.params.id);
+    res.status(200).json(result);
+  } catch (err) {
+    res.status(400).json({ msg: "failed", error: err });
+  }
 });
 
 module.exports = router;

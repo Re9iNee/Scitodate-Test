@@ -8,6 +8,7 @@ class Author extends React.Component {
       id: this.props.match.params.authorId,
       author: {},
       papers: [],
+      coAuthors: [],
     };
   }
 
@@ -26,6 +27,12 @@ class Author extends React.Component {
         })
       )
       .catch((err) => console.log(err));
+    this.loadCoAuthors(this.state.id)
+      .then((res) =>
+        this.setState({
+          coAuthors: [...res],
+        })
+      )
       .catch((err) => console.log(err));
   }
 
@@ -53,7 +60,17 @@ class Author extends React.Component {
     return body;
   };
 
-  // TODO: add co-Authors
+  loadCoAuthors = async (authorId) => {
+    const response = await fetch(`/author/coAuthors/${authorId}`);
+    const body = await response.json();
+
+    if (response.status !== 200) {
+      throw Error(
+        `Loading CoAuthors failed, status code ${response.status}, ${response.statusText}`
+      );
+    }
+    return body;
+  };
 
   render() {
     const author = Object.assign({}, this.state.author);
@@ -68,9 +85,12 @@ class Author extends React.Component {
         </ul>
         <h3>Co Authors:</h3>
         <ul>
-          <li>
-            <a href="/authors/4">Co-Authors #1</a>
-          </li>
+          {this.state.coAuthors.map((coAuthor) => (
+            <li key={coAuthor._id}>
+              <a href={"/Authors/" + coAuthor._id}>{coAuthor.name}</a>
+              <pre>{coAuthor.affiliation}</pre>
+            </li>
+          ))}
         </ul>
       </div>
     );

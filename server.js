@@ -20,6 +20,9 @@ app.use("/database", databaseRoute);
 const authorRoute = require("./routes/authors");
 app.use("/author", authorRoute);
 
+const paperRoutes = require("./routes/papers");
+app.use("/paper", paperRoutes);
+
 // Connect to DB
 mongoose.connect(process.env.MONGODB_URI, () => {
   console.log("connected to DB!");

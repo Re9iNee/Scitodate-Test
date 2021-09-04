@@ -31,7 +31,7 @@ router.get("/:id", async (req, res) => {
 router.get("/author/:authorId", async (req, res) => {
   // return all the papers that :authorId wrote
   try {
-    const result = await Papers.find({ authors: req.params.authorId });
+    const result = await Papers.find({ authors: req.params.authorId }).sort([['date', 1]]);
     if (!result) {
       throw "couldn't find papers that this authorId wrote ";
     }

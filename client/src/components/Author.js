@@ -7,6 +7,7 @@ class Author extends React.Component {
     this.state = {
       id: this.props.match.params.authorId,
       author: {},
+      papers: [],
     };
   }
 
@@ -17,6 +18,13 @@ class Author extends React.Component {
           author: Object.assign({}, res),
         })
       )
+      .catch((err) => console.log(err));
+    this.loadPapers(this.state.id)
+      .then((res) => {
+        this.setState({
+          papers: [...res],
+        });
+      })
       .catch((err) => console.log(err));
   }
 
@@ -31,6 +39,21 @@ class Author extends React.Component {
     }
     return body;
   };
+
+  loadPapers = async (authorId) => {
+    const response = await fetch(`/paper/author/${authorId}`);
+    const body = await response.json();
+
+    if (response.status !== 200) {
+      throw Error(
+        `Loading papers failed, status code ${response.status}, ${response.statusText}`
+      );
+    }
+    return body;
+  };
+
+
+  // TODO: add co-Authors
 
   render() {
     const author = Object.assign({}, this.state.author);

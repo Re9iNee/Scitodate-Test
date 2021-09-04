@@ -52,19 +52,18 @@ class Author extends React.Component {
     return body;
   };
 
-
   // TODO: add co-Authors
 
   render() {
     const author = Object.assign({}, this.state.author);
     return (
       <div>
-        <h1>
-          Scientist {author.name}, with the ID of {this.state.id}
-        </h1>
+        <h1>Scientist {author.name}</h1>
         <h3>{author.affiliation}</h3>
         <ul>
-          <li>Paper Titles Sorted By Published Date</li>
+          {this.state.papers.map((paper) => (
+            <li key={paper._id}>{paper.title}</li>
+          ))}
         </ul>
         <h3>Co Authors:</h3>
         <ul>

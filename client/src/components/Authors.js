@@ -7,6 +7,7 @@ export default class Authors extends React.Component {
       authors: [],
     };
   }
+  // NOTE: i feel better to use callback api, fetch data in getDerivedStateFromProps - but since our application is not a CRUD App, there won't be any component updates.
   componentDidMount() {
     this.loadAllAuthors()
       .then((res) => this.setState({ authors: res.slice() }))

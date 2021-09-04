@@ -9,11 +9,11 @@ export default class Authors extends React.Component {
         <input type="text" placeholder="search through Authors" />
         <ul>
           <li>
-            <a href="/Authors/#2">Wong</a>
+            <a href="/Authors/2">Wong</a>
             <pre>Affilitaion</pre>
           </li>
           <li>
-            <a href="/Authors/#3">Wong</a>
+            <a href="/Authors/3">Wong</a>
             <pre>Affilitaion</pre>
           </li>
         </ul>

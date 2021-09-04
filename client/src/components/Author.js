@@ -20,11 +20,12 @@ class Author extends React.Component {
       )
       .catch((err) => console.log(err));
     this.loadPapers(this.state.id)
-      .then((res) => {
+      .then((res) =>
         this.setState({
           papers: [...res],
-        });
-      })
+        })
+      )
+      .catch((err) => console.log(err));
       .catch((err) => console.log(err));
   }
 

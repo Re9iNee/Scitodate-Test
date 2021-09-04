@@ -28,4 +28,17 @@ router.get("/:id", async (req, res) => {
   }
 });
 
+router.get("/author/:authorId", async (req, res) => {
+  // return all the papers that :authorId wrote
+  try {
+    const result = await Papers.find({ authors: req.params.authorId });
+    if (!result) {
+      throw "couldn't find papers that this authorId wrote ";
+    }
+    res.status(200).json(result);
+  } catch (err) {
+    res.status(400).json({ msg: "failed", error: err });
+  }
+});
+
 module.exports = router;

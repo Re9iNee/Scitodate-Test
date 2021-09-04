@@ -17,6 +17,9 @@ app.get("/", (req, res) => {
 const databaseRoute = require("./routes/database");
 app.use("/database", databaseRoute);
 
+const authorRoute = require("./routes/authors");
+app.use("/author", authorRoute);
+
 // Connect to DB
 mongoose.connect(process.env.MONGODB_URI, () => {
   console.log("connected to DB!");

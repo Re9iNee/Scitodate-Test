@@ -6,13 +6,40 @@ class Author extends React.Component {
     super(props);
     this.state = {
       id: this.props.match.params.authorId,
+      author: {},
     };
   }
+
+  componentDidMount() {
+    this.loadAuthor(this.state.id)
+      .then((res) =>
+        this.setState({
+          author: Object.assign({}, res),
+        })
+      )
+      .catch((err) => console.log(err));
+  }
+
+  loadAuthor = async (id) => {
+    const response = await fetch(`/author/${id}`);
+    const body = await response.json();
+
+    if (response.status !== 200) {
+      throw Error(
+        `Loading author ${id} failed, status code ${response.status}, ${response.statusText}`
+      );
+    }
+    return body;
+  };
+
   render() {
+    const author = Object.assign({}, this.state.author);
     return (
       <div>
-        <h1>Scientist Name, with the ID of {this.state.id}</h1>
-        <h3>Affilitaion</h3>
+        <h1>
+          Scientist {author.name}, with the ID of {this.state.id}
+        </h1>
+        <h3>{author.affiliation}</h3>
         <ul>
           <li>Paper Titles Sorted By Published Date</li>
         </ul>

@@ -5,6 +5,7 @@ export default class Authors extends React.Component {
     super(props);
     this.state = {
       authors: [],
+      searchTerm: "",
     };
   }
   // NOTE: i feel better to use callback api, fetch data in getDerivedStateFromProps - but since our application is not a CRUD App, there won't be any component updates.
@@ -31,18 +32,38 @@ export default class Authors extends React.Component {
       <div>
         <h1>Authors</h1>
         <h5>List of All Authors here</h5>
-        {/* TODO: make searchbar logic */}
-        <input type="text" placeholder="search through Authors" />
+        <input
+          type="text"
+          placeholder="search through Authors"
+          onChange={(event) =>
+            this.setState({ searchTerm: event.target.value })
+          }
+        />
         <ul>
           {/* Render all authors */}
-          {this.state.authors.map((author) => {
-            return (
-              <li key={author._id}>
-                <a href={"/Authors/" + author._id}>{author.name}</a>
-                <pre>{author.affiliation}</pre>
-              </li>
-            );
-          })}
+          {this.state.authors
+            .filter((val) => {
+              // query items (using searchbar)
+              if (this.state.searchTerm === "") {
+                return val;
+              } else if (
+                val.name
+                  .toLowerCase()
+                  .includes(this.state.searchTerm.toLowerCase())
+              ) {
+                return val;
+              } else {
+                return false;
+              }
+            })
+            .map((author) => {
+              return (
+                <li key={author._id}>
+                  <a href={"/Authors/" + author._id}>{author.name}</a>
+                  <pre>{author.affiliation}</pre>
+                </li>
+              );
+            })}
         </ul>
       </div>
     );

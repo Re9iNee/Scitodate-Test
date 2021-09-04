@@ -14,3 +14,18 @@ router.get("/", async (req, res) => {
     res.status(400).json({ msg: "failed", error: err });
   }
 });
+
+router.get("/:id", async (req, res) => {
+  // return paper with the id of :id
+  try {
+    const result = await Papers.findById(req.params.id);
+    if (!result) {
+      throw "couldn't find this author";
+    }
+    res.status(200).json(result);
+  } catch (err) {
+    res.status(400).json({ msg: "failed", error: err });
+  }
+});
+
+module.exports = router;

@@ -29,7 +29,7 @@ router.get("/:id", async (req, res) => {
 });
 
 router.get("/coAuthors/:id", async (req, res) => {
-  // return all co-authors with this specific author :id
+  // return all coAuthors that worked with specific Author :id
   try {
     const result = await Authors.find({ coAuthors: Number(req.params.id) });
     if (!result) {

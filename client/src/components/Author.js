@@ -1,5 +1,6 @@
 import React from "react";
 import { withRouter } from "react-router-dom";
+import Scientist from "./Scientist";
 
 class Author extends React.Component {
   constructor(props) {
@@ -92,10 +93,7 @@ class Author extends React.Component {
         <ul>
           {/* Render coAuthors */}
           {this.state.coAuthors.map((coAuthor) => (
-            <li key={coAuthor._id}>
-              <a href={"/Authors/" + coAuthor._id}>{coAuthor.name}</a>
-              <pre>{coAuthor.affiliation}</pre>
-            </li>
+            <Scientist author={coAuthor} />
           ))}
         </ul>
       </div>

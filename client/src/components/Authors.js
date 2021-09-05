@@ -1,4 +1,5 @@
 import React from "react";
+import Scientist from "./Scientist";
 
 export default class Authors extends React.Component {
   constructor(props) {
@@ -8,7 +9,7 @@ export default class Authors extends React.Component {
       searchTerm: "",
     };
   }
-  
+
   componentDidMount() {
     this.loadAllAuthors()
       .then((res) => this.setState({ authors: res.slice() }))
@@ -52,10 +53,7 @@ export default class Authors extends React.Component {
             )
             .map((author) => {
               return (
-                <li key={author._id}>
-                  <a href={"/Authors/" + author._id}>{author.name}</a>
-                  <pre>{author.affiliation}</pre>
-                </li>
+                <Scientist author={author} />
               );
             })}
         </ul>

@@ -81,9 +81,9 @@ class Author extends React.Component {
   render() {
     const author = Object.assign({}, this.state.author);
     return (
-      <div>
-        <h1>Scientist {author.name}</h1>
-        <h3>{author.affiliation}</h3>
+      <div className="container">
+        <h1>{author.name}</h1>
+        <p className="large-p text-secondary subhead">{author.affiliation}</p>
         <ul>
           {this.state.papers.map((paper) => (
             <li key={paper._id}>{paper.title}</li>

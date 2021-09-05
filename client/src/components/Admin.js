@@ -1,3 +1,4 @@
+// TODO: drop all rows from database - button
 import React from "react";
 
 export default class Admin extends React.Component {
@@ -8,6 +9,8 @@ export default class Admin extends React.Component {
     };
   }
   handleFileChange = (ev) => {
+    // enable upload(submit) button when: 
+    // file extension is valid & there is a file to upload
     if (
       ev.target.files.length &&
       ev.target.files[0].type === "application/json"
@@ -24,7 +27,6 @@ export default class Admin extends React.Component {
         encType="multipart/form-data"
         method="post"
         className="container"
-        onSubmit={this.submit}
       >
         <h1>Upload your data file</h1>
         <p className="small-p text-secondary subhead">

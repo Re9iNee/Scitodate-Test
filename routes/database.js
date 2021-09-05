@@ -5,6 +5,8 @@ const router = express.Router();
 // Process Data
 const { processData } = require("../app");
 
+// TODO: get route (send uploaded file information)
+
 router.post("/", (req, res) => {
   // TODO: if uploads/ directory doesn't exist make one
   // TODO: use Paths module to define uploadDir

@@ -30,12 +30,14 @@ export default class Authors extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="container">
         <h1>Authors</h1>
-        <h5>List of All Authors here</h5>
+        <p className="large-p text-secondary subhead">List of All Authors</p>
         <input
+          className="medium-p"
+          id="search-bar"
           type="text"
-          placeholder="search through Authors"
+          placeholder="filter authors"
           onChange={(event) =>
             this.setState({ searchTerm: event.target.value })
           }
@@ -52,9 +54,7 @@ export default class Authors extends React.Component {
                   .includes(this.state.searchTerm.toLowerCase())
             )
             .map((author) => {
-              return (
-                <Scientist author={author} />
-              );
+              return <Scientist author={author} />;
             })}
         </ul>
       </div>

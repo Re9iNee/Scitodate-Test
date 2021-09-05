@@ -1,0 +1,984 @@
+[
+  {
+    "date": "2021-08-30",
+    "topic_scores": [
+      0.5334556, 0, 0.3211962, 0.39037147, 0.563381, 0.49806005, 0.510192,
+      0.3956774, 0.45845628, 0.43297058
+    ],
+    "topics": [
+      "Synthetic cannabinoids",
+      "On demand",
+      "Biology",
+      "Neuroscience",
+      "Cannabinoid",
+      "Neuropsychopharmacology",
+      "Cannabinoid receptor",
+      "Biological psychiatry",
+      "Endocannabinoid system",
+      "Cannabis"
+    ],
+    "abstract": "Cannabinoids from the cannabis plant were one of the earliest psychoactive phytochemicals harnessed by humanity for their medicinal properties and remain one of the most frequently used and misused classes of chemicals in the world. Despite our long-standing history with cannabinoids, much more is said than is known regarding how these molecules influence the brain and behavior. We are in a rapidly evolving discovery phase regarding the neuroscience of cannabinoids. This period of insight began in the mid-1990s when it was discovered that phytocannabinoids (e.g., delta-9-tetrahydrocannabinol) act on G protein-coupled receptors (i.e., CB1/CB2) in the brain to produce their psychoactive effects. Shortly thereafter, it was discovered that endogenous ligands (i.e., endocannabinoids) exist for these receptor targets and, that they are synthetized on demand under a variety of physiological conditions. Thus, we can now study how phytochemicals, endogenous ligands, and synthetic/metabolic enzymes of the endocannabinoid system influence the brain and behavior by activating known receptor targets. Our increased ability to study cannabinoid interactions with the brain and behavior coincides with an increase in international interest in utilizing cannabinoids as a medicine. At the same time, the potency of, and administration routes by which cannabinoids are used is rapidly changing. And, these trends in cannabinoid misuse are producing lasting neural adaptations that have implications for mental health. In this special edition, we will summarize our recent period of discovery regarding how: 1) phytocannabinoids, synthetic cannabinoids and endocannabinoids act on the brain to produce behavioral effects; 2) cannabinoids can be harnessed to produce pharmacotherapeutic utility in the field of medicine; and 3) use of increasingly more cannabinoid variants through unique routes of administration alter the brain and behavior, especially when used in critical developmental periods like pregnancy and adolescence.",
+    "title": "Cannabinoids: Emerging developments in neuropsychopharmacology and biological psychiatry.",
+    "authors": [
+      {
+        "_id": "2136483839",
+        "name": "Erik B Oleson",
+        "email": "erik.oleson@ucdenver.edu",
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "2026344052",
+        "name": "Jibran Y Khokhar",
+        "email": "jkhokhar@uoguelph.ca",
+        "affiliation": "University of Guelph"
+      }
+    ]
+  },
+  {
+    "date": "2021-08-18",
+    "topic_scores": [
+      0.4018388, 0.51321757, 0.37812185, 0, 0.3979966, 0, 0.3833085
+    ],
+    "topics": [
+      "Traumatic brain injury",
+      "Malingering",
+      "Psychology",
+      "Recognition memory test",
+      "Cognitive psychology",
+      "Validity assessment",
+      "Response time"
+    ],
+    "abstract": "Objective: The present study tested the incremental utility of response time (RT) on the Warrington Recognition Memory Test - Words (RMT-W) in classifying bona fide versus feigned TBI.Method: Participants were 173 adults: 55 with moderate to severe TBI, 69 healthy comparisons (HC) instructed to perform their best, and 49 healthy adults coached to simulate TBI (SIM). Participants completed a computerized version of the RMT-W in the context of a comprehensive neuropsychological battery. Groups were compared on RT indices including mean RT (overall, correct trials, incorrect trials) and variability, as well as the traditional RMT-W accuracy score.Results: Several RT indices differed significantly across groups, although RMT-W accuracy predicted group membership more strongly than any individual RT index. SIM showed longer average RT than both TBI and HC. RT variability and RT for incorrect trials distinguished SIM-HC but not SIM-TBI comparisons. In general, results for SIM-TBI comparisons were weaker than SIM-HC results. For SIM-HC comparisons, classification accuracy was excellent for all multivariable models incorporating RMT-W accuracy with one of the RT indices. For SIM-TBI comparisons, classification accuracies for multivariable models ranged from acceptable to excellent discriminability. In addition to mean RT and RT on correct trials, the ratio of RT on correct items to incorrect items showed incremental predictive value to accuracy.Conclusion: Findings support the growing body of research supporting the value of combining RT with PVTs in discriminating between verified and feigned TBI. The diagnostic accuracy of the RMT-W can be improved by incorporating RT.",
+    "title": "Performance validity assessment using response time on the Warrington Recognition Memory Test.",
+    "authors": [
+      {
+        "_id": "3000069336",
+        "name": "Sarah D Patrick",
+        "email": null,
+        "affiliation": "Wayne State University"
+      },
+      {
+        "_id": "2171387350",
+        "name": "Lisa J Rapport",
+        "email": "rapport@wayne.edu",
+        "affiliation": "Wayne State University"
+      },
+      {
+        "_id": "2564749645",
+        "name": "Robert J Kanser",
+        "email": null,
+        "affiliation": "Wayne State University"
+      },
+      {
+        "_id": "2104615992",
+        "name": "Robin A Hanks",
+        "email": "rhanks@med.wayne.edu",
+        "affiliation": "Wayne State University"
+      },
+      {
+        "_id": "2060588715",
+        "name": "Jesse R Bashem",
+        "email": null,
+        "affiliation": "Wayne State University"
+      }
+    ]
+  },
+  {
+    "date": "2021-08-09",
+    "topic_scores": [
+      0.47116274, 0.5997854, 0.5303056, 0.4540048, 0.47970662, 0.54777145,
+      0.45792165, 0.45987815, 0.45518965, 0.43639952
+    ],
+    "topics": [
+      "Clinical trial",
+      "Acceptance and commitment therapy",
+      "Randomized controlled trial",
+      "Treatment and control groups",
+      "Traumatic brain injury",
+      "Brief Symptom Inventory 18",
+      "Physical therapy",
+      "Cognition",
+      "Referral",
+      "Medicine"
+    ],
+    "abstract": "Psychological distress is common in persons with traumatic brain injury (TBI) but treatments remain underdeveloped. This randomized controlled trial of Acceptance and Commitment Therapy (ACT) was designed to address this gap. Ninety-three persons with medically-documented complicated mild to severe TBI, normal-to-mildly impaired memory, and clinically significant psychological distress in the chronic phase of recovery were randomized to receive eight weeks of ACT (manualized with adaptations to address TBI-related cognitive impairments) or a single session of needs assessment, brief counseling/education, and referral. The ACT group showed significantly greater reduction of psychological distress (Brief Symptom Inventory 18) and demonstrated improvements in psychological flexibility and commitment to action (Acceptance and Action Questionnaire-II (AAQ-II) scores). The number of treatment responders (post-treatment BSI 18 GSI T scores <63) was larger in the ACT group than in the control group. Entry of AAQ-II scores into the model of between-group differences in BSI 18 GSI T scores indicated that core ACT processes explained the variance in treatment group outcomes. Provision of ACT reduces psychological distress in persons with TBI in the chronic phase of recovery when adaptations are made to accommodate TBI-related cognitive impairments. Additional clinical trials with a structurally equivalent control group are needed.",
+    "title": "A randomized controlled trial of acceptance and commitment therapy for psychological distress among persons with traumatic brain injury",
+    "authors": [
+      {
+        "_id": "2131145068",
+        "name": "Angelle M Sander",
+        "email": "asander@bcm.edu",
+        "affiliation": "Baylor College of Medicine"
+      },
+      {
+        "_id": "2239779966",
+        "name": "Allison N Clark",
+        "email": "anclark@bcm.edu",
+        "affiliation": "Baylor College of Medicine"
+      },
+      {
+        "_id": "2016890528",
+        "name": "David B Arciniegas",
+        "email": "david.arciniegas@bcm.edu",
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "3025485727",
+        "name": "Kim Tran",
+        "email": null,
+        "affiliation": "TIRR Memorial Hermann"
+      },
+      {
+        "_id": "2265280892",
+        "name": "Luis Leon Novelo",
+        "email": "luis@louisina.edu",
+        "affiliation": "University of Texas Health Science Center at Houston"
+      },
+      {
+        "_id": "2507068649",
+        "name": "Esther Ngan",
+        "email": null,
+        "affiliation": "University of Texas Health Science Center at Houston"
+      },
+      {
+        "_id": "2094066186",
+        "name": "Jay Bogaards",
+        "email": null,
+        "affiliation": "TIRR Memorial Hermann"
+      },
+      {
+        "_id": "2155742134",
+        "name": "Mark Sherer",
+        "email": "mark.sherer@memorialhermann.org",
+        "affiliation": "TIRR Memorial Hermann"
+      },
+      {
+        "_id": "3024476028",
+        "name": "Robyn Walser",
+        "email": null
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "topic_scores": [
+      0.56417453, 0.5319575, 0.5596035, 0.53620726, 0.56154084, 0.6249429,
+      0.55620825, 0.4275016, 0.32320273, 0.5799432
+    ],
+    "topics": [
+      "Fisher's exact test",
+      "Statistical significance",
+      "Spearman's rank correlation coefficient",
+      "Null hypothesis",
+      "Analysis of variance",
+      "Wilcoxon signed-rank test",
+      "Multiple comparisons problem",
+      "Statistics",
+      "Medicine",
+      "Statistical hypothesis testing"
+    ],
+    "abstract": "Comparison of parameters between two or more groups forms the basis of hypothesis testing. Statistical tests (and statistical significance) are designed to report the likelihood the observed results are caused by chance alone, given that the null hypothesis is true. To demonstrate the concepts described, we utilized the Nationwide Inpatient Sample for patients admitted for emergency general surgery (EGS) and those admitted with non-EGS diagnoses. Depending on the type and distribution of individual variables, appropriate statistical tests were applied. Comparison of numerical variables between two groups is begun with a simple correlation, depicted graphically in a scatterplot, and assessed statistically with either a Pearson or Spearman correlation coefficient. Normality of numerical variables is then assessed and in the case of normality, a t-test is applied when comparing two groups, and an analysis of variance (ANOVA) when comparing three or more groups. For data that are not distributed normally, a Wilcoxon rank sum (Mann-Whitney U) test may be used. For categorical variables, the χ2 test is used, unless cell counts are less than five, in which case the Fisher exact test is used. Importantly, both the ANOVA and χ2 test are used to assess for overall differences between two or more groups. Individual pair comparison tests, as well as adjusting for multiple comparisons must be used to identify differences between two specific groups when there are more than two groups. A basic understanding of statistical significance, and the type and distribution of variables is necessary to select the appropriate statistical test to compare data. Failure to understand these concepts may result in spurious conclusions.",
+    "title": "Basic Introduction to Statistics in Medicine, Part 2: Comparing Data.",
+    "authors": [
+      {
+        "_id": "3037025780",
+        "name": "Wyatt P Bensken",
+        "email": "wyatt.bensken@case.edu",
+        "affiliation": "Case Western Reserve University"
+      },
+      {
+        "_id": "3024714158",
+        "name": "Vanessa P Ho",
+        "email": "vho@metrohealth.org",
+        "affiliation": "Case Western Reserve University"
+      },
+      {
+        "_id": "678209419",
+        "name": "Fredric M Pieracci",
+        "email": "fredric.pieracci@dhha.org",
+        "affiliation": "University of Colorado Denver"
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "topic_scores": [
+      0.45250478, 0.548622, 0.528359, 0.42541966, 0.57080525, 0.4637736,
+      0.42211598, 0.42041954, 0.4598521, 0.50071716
+    ],
+    "topics": [
+      "Emergency medicine",
+      "Tertiary referral hospital",
+      "Nasal cannula",
+      "Psychological intervention",
+      "Palliative care",
+      "Health care",
+      "Medicine",
+      "Protocol (science)",
+      "Weaning",
+      "Fraction of inspired oxygen"
+    ],
+    "abstract": "Patients often receive burdensome care at the end of life in the form of interventions that may need to be removed. Heated high-flow oxygen delivered through a nasal cannula (HHFNC) is one such intervention that can be delivered in the hospital yet is rarely available outside of this setting. During the COVID-19 (coronavirus disease 2019) pandemic, health care systems continue to face the possibility of rationing critical life-sustaining equipment that may include HHFNC. We present a clinical protocol designed for weaning HHFNC to allow a natural death and ensuring adequate symptom management throughout the process. This was a retrospective chart review of 8 patients seen by an inpatient palliative care service of an academic tertiary referral hospital who underwent terminal weaning of HHFNC using a structured protocol to manage dyspnea. Eight patients with diverse medical diagnoses, including COVID-19 pneumonia, underwent terminal weaning of HHFNC according to the clinical protocol with 4 down-titrations of approximately 25% for both fraction of inspired oxygen and liter flow with preemptive boluses of opioid and benzodiazepine. Clinical documentation supported good symptom control throughout the weaning process. This case series provides preliminary evidence that the clinical protocol proposed has the ability to ensure comfort through terminal weaning of HHFNC.",
+    "title": "Compassionate Removal of Heated High-Flow Nasal Cannula for End of Life: Case Series and Protocol Development.",
+    "authors": [
+      {
+        "_id": "3164978101",
+        "name": "Hareklia Brackett",
+        "email": null,
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "3164025620",
+        "name": "Andrea Forman",
+        "email": null
+      },
+      {
+        "_id": "3164688268",
+        "name": "Laura A Foster",
+        "email": null
+      },
+      {
+        "_id": "2441871900",
+        "name": "Stacy M Fischer",
+        "email": "stacy.fischer@ucdenver.edu",
+        "affiliation": "University of Colorado Denver"
+      }
+    ]
+  },
+  {
+    "date": "2021-08-01",
+    "topic_scores": [
+      0.49578854, 0.47329745, 0.5579018, 0.4758326, 0.47231376, 0.42520294,
+      0.3008831, 0.4920585, 0.51736265, 0.6004359
+    ],
+    "topics": [
+      "Range (statistics)",
+      "Normality",
+      "Box plot",
+      "Sample (statistics)",
+      "Histogram",
+      "Statistics",
+      "Medicine",
+      "Standard deviation",
+      "Statistical hypothesis testing",
+      "Categorical variable"
+    ],
+    "abstract": "Standardized and concise data presentation forms the base for subsequent analysis and interpretation. This article reviews types of data, data properties and distributions, and both numerical and graphical methods of data presentation. For the purposes of illustration, the National Inpatient Sample was queried to categorize patients as having either emergency general surgery or non-emergency general surgery admissions. Variables are categorized as either categorical or numerical. Within the former, there are ordinal and or nominal subtypes; within the latter, there are ratio and interval subtypes. Categorical data are typically displayed as number (%). Numerical data must be assessed for normality as normally distributed data behave in certain patterns that allow for specific statistical tests to be used. Several properties exist for numerical data, including measurements of central tendency (mean, median, and mode), as well as standard deviation, range, and interquartile range. The best initial assessment of the distribution of numerical data is graphical with both histograms and box plots. Knowledge of the types, distribution, and properties of data is essential to move forward with hypothesis testing.",
+    "title": "Basic Introduction to Statistics in Medicine, Part 1: Describing Data.",
+    "authors": [
+      {
+        "_id": "3037025780",
+        "name": "Wyatt P Bensken",
+        "email": "wyatt.bensken@case.edu",
+        "affiliation": "Case Western Reserve University"
+      },
+      {
+        "_id": "678209419",
+        "name": "Fredric M Pieracci",
+        "email": "fredric.pieracci@dhha.org",
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "3024714158",
+        "name": "Vanessa P Ho",
+        "email": "vho@metrohealth.org",
+        "affiliation": "Case Western Reserve University"
+      }
+    ]
+  },
+  {
+    "date": "2021-06-30",
+    "topic_scores": [
+      0, 0, 0.41998613, 0.5923871, 0.48785126, 0, 0.33769152, 0.48907006,
+      0.5062621, 0, 0.41746804
+    ],
+    "topics": [
+      "Cold exposure",
+      "Insulin tolerance",
+      "Obesity",
+      "Glucose homeostasis",
+      "Energy homeostasis",
+      "Tissue specific",
+      "Medicine",
+      "Thermogenesis",
+      "Insulin",
+      "Internal medicine",
+      "Endocrinology"
+    ],
+    "abstract": "Ambient cold exposure is often regarded as a promising anti-obesity treatment in mice. However, most preclinical studies aimed at treating obesity via cold-induced thermogenesis have been confounded by sub-thermoneutral housing temperatures. Therefore, the ability of ambient cold to combat diet-induced obesity in mice housed under humanized thermoneutral conditions is currently unknown. Moreover, mammals such as mice are rarely exposed to chronic ambient cold without reprieve, yet mice are often subjected to experimental conditions of chronic rather than intermittent cold exposure (ICE), despite ICE being more physiologically relevant. Having addressed these issues herein, we provide novel evidence that thermoneutral housing uncouples the effects of ICE on glucose and energy homeostasis suggesting that ICE, despite improving glucose tolerance, is not an effective obesity treatment when mice are housed under humanized thermoneutral conditions. This study examined whether a physiologically relevant model of ambient cold exposure, intermittent cold exposure (ICE), could ameliorate the metabolic impairments of diet-induced obesity in male and female mice housed under humanized thermoneutral conditions. Male and female C57BL/6J mice housed at thermoneutrality (29 °C) were fed a low-fat diet (LFD) or high-fat diet (HFD) for 6 weeks before being weight matched into groups that remained unperturbed (CTRL) or underwent ICE for four weeks (4 °C for 60 min/day; 5 days/week) while being maintained on their respective diets. ICE induced rapid and persistent hyperphagia exacerbating rather than attenuating HFD-induced obesity over time. These ICE-induced increases in adiposity were found to be energy intake dependent via pair-feeding. Despite exacerbating HFD-induced obesity, ICE improved glucose tolerance, independent of diet, in a sex-specific manner. The effects of ICE on glucose tolerance were not attributed to improvements in whole-body insulin tolerance, tissue specific insulin action, nor to differences in markers of hepatic insulin clearance or pancreatic beta cell proliferation. Instead, ICE increased serum concentrations of insulin and C-peptide in response to glucose, suggesting that ICE may improve glucose tolerance by potentiating pancreatic glucose-stimulated insulin secretion. These data suggest that ICE, despite improving glucose tolerance, is not an effective obesity treatment in mice housed under humanized conditions. Greg L. McKie is a third year PhD Candidate in the Human Health and Nutritional Sciences Department at the University of Guelph, where he works under the supervision of Dr. David C. Wright. Greg's dissertation focuses on the effects of environmental perturbations, such as aerobic exercise and ambient cold exposure, on adipose tissue metabolism, specifically as it relates to promoting non-shivering thermogenesis under translationally relevant thermoneutral conditions. This article is a follow up to Greg's first PhD study, also published in The Journal of Physiology, which demonstrated that housing temperature affects the acute and chronic metabolic adaptations to aerobic exercise in mice. This article is protected by copyright. All rights reserved.",
+    "title": "Intermittent cold exposure improves glucose homeostasis despite exacerbating diet-induced obesity in mice housed at thermoneutrality.",
+    "authors": [
+      {
+        "_id": "2619977360",
+        "name": "Greg L Mckie",
+        "email": null,
+        "affiliation": "University of Guelph"
+      },
+      {
+        "_id": "2961268082",
+        "name": "Hesham Shamshoum",
+        "email": "hshamsho@uoguelph.ca",
+        "affiliation": "University of Guelph"
+      },
+      {
+        "_id": "2610876511",
+        "name": "Kristin L Hunt",
+        "email": null,
+        "affiliation": "University of Manitoba"
+      },
+      {
+        "_id": "2988804738",
+        "name": "Hayley H A Thorpe",
+        "email": null,
+        "affiliation": "University of Guelph"
+      },
+      {
+        "_id": "3006657387",
+        "name": "Hana A Dibe",
+        "email": null,
+        "affiliation": "University of Guelph"
+      },
+      {
+        "_id": "2026344052",
+        "name": "Jibran Y Khokhar",
+        "email": "jkhokhar@uoguelph.ca",
+        "affiliation": "University of Guelph"
+      },
+      {
+        "_id": "2235828743",
+        "name": "Christine A Doucette",
+        "email": null,
+        "affiliation": "University of Manitoba"
+      },
+      {
+        "_id": "2116801829",
+        "name": "David C Wright",
+        "email": "dcwright@uoguelph.ca",
+        "affiliation": "University of Guelph"
+      }
+    ]
+  },
+  {
+    "date": "2021-06-20",
+    "topic_scores": [
+      0.4599014, 0.4541738, 0.45323536, 0.4870302, 0.45687768, 0.5684153,
+      0.44943115, 0.48953608, 0.55180085, 0.38230568
+    ],
+    "topics": [
+      "Clinical trial",
+      "The Internet",
+      "Phone",
+      "Informed consent",
+      "Internet access",
+      "Palliative care",
+      "Medical education",
+      "Context (language use)",
+      "Underserved Population",
+      "Medicine"
+    ],
+    "abstract": "During the COVID-19 pandemic, community-based research studies experienced prolonged shutdowns unless able to pivot to remote study procedures. To describe the revision of two National Institutes of Health funded community-based palliative-focused clinical trials serving underserved populations to accommodate remote subject enrollment and examine its impact. Transitioning to remote processes required multiple protocol and procedural changes including: altering informed consent processes; reducing the number of surveys administered; adding internet access as an inclusion criterion. To understand technological challenges, a screening tool was developed for one study to identify potentially eligible subjects' technology abilities and accessibility. Subjects' limited access to the internet and internet-enabled devices and discomfort with technology led to changes in recruitment patterns. Lack of familiarity with technology increased the amount of time it took research team members and subjects to connect remotely. Patients with significant cognitive and/or sensory deficits were at higher risk of experiencing fatigue during remote study visits leading to streamlining of data collection. A researcher-developed technology screening tool found that potential subjects were not comfortable with videoconferencing through Zoom® expressing a preference for phone visits. Reduced travel time made scheduling remote study visits more efficient. Future communityand home-based palliative care trials must consider the best way to utilize remote recruitment, enrollment, and data collection processes to increase efficiency and reduce costs. Researchers should consider technology accessibility and train staff to ensure the greatest possible opportunity to recruit underserved populations who have traditionally been underrepresented in research studies.",
+    "title": "Transitioning to Remote Recruitment and Intervention: A Tale of Two Palliative Care Research Studies Enrolling Underserved Populations during COVID-19.",
+    "authors": [
+      {
+        "_id": "2183521394",
+        "name": "Abraham A Brody",
+        "email": "ab.brody@nyu.edu",
+        "affiliation": "New York University"
+      },
+      {
+        "_id": "2985055494",
+        "name": "Kimberly A Convery",
+        "email": null
+      },
+      {
+        "_id": "2692164489",
+        "name": "Danielle M Kline",
+        "email": "danielle.kline@ucdenver.edu",
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "1988750578",
+        "name": "Regina M Fink",
+        "email": "regina.fink@cuanschutz.edu",
+        "affiliation": "Anschutz Medical Campus"
+      },
+      {
+        "_id": "2441871900",
+        "name": "Stacy M Fischer",
+        "email": "stacy.fischer@ucdenver.edu",
+        "affiliation": "University of Colorado Denver"
+      }
+    ]
+  },
+  {
+    "date": "2021-06-01",
+    "topic_scores": [
+      0.5264826, 0.5864633, 0.51259416, 0.46948132, 0.67196447, 0.51095396, 0,
+      0.40104136
+    ],
+    "topics": [
+      "Social work",
+      "Advance care planning",
+      "Intervention (counseling)",
+      "Nursing",
+      "Palliative care",
+      "Active listening",
+      "Intervention trial",
+      "Medicine"
+    ],
+    "abstract": "Determine feasibility, acceptability, and preliminary effects of the Palliative Care Social Worker-led ALIGN (Assessing & Listening to Individual Goals and Needs) intervention in older persons admitted to Skilled Nursing Facility (SNF) and their caregivers. A pilot pragmatic randomized stepped wedge design of ALIGN versus usual care in three SNFs. One hundred and twenty older adults and caregivers (optional) with advanced medical illnesses. Primary outcomes were feasibility and acceptability. We collected exploratory patient-/caregiver-centered outcomes at baseline and three months and conducted a medical record review at six months to assess documentation of Advance Directives (AD). We also collected exploratory health care utilization data, including hospitalizations, mortality, and hospice utilization. Of 179 patients approached, 120 enrolled (60 ALIGN patients with 15 caregivers and 60 usual care patients and 21 caregivers). Four intervention patients refused ALIGN visits, 8 patients died or discharged before initial visit, and 48 intervention patients received ALIGN visits, with ∼80% having caregivers participating in visits, regardless of caregiver study enrollment. Quantitative exploratory outcomes were not powered to detect a difference between groups. We found 91% of ALIGN patients had a completed AD in medical record compared to 39.6% of usual care patients (p < 0.001). Qualitative feedback from participants and SNF staff supported high acceptability and satisfaction with ALIGN. A pragmatic trial of the ALIGN intervention is feasible and preliminary effects suggest ALIGN is effective in increasing AD documentation. Further research is warranted to understand effects on caregivers and health care utilization. The current model for SNF does not address the palliative care needs of patients. ALIGN has potential to be an effective, scalable, acceptable, and reproducible intervention to improve certain palliative care outcomes within subacute settings.",
+    "title": "Integrating Palliative Care Social Workers into Subacute Settings: Feasibility of the Assessing & Listening to Individual Goals and Needs Intervention Trial.",
+    "authors": [
+      {
+        "_id": "2441871900",
+        "name": "Stacy M Fischer",
+        "email": "stacy.fischer@ucdenver.edu",
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "2259618960",
+        "name": "Laurel Tropeano",
+        "email": null
+      },
+      {
+        "_id": "2652145947",
+        "name": "Dana Lahoff",
+        "email": null
+      },
+      {
+        "_id": "2272074409",
+        "name": "Bree Owens",
+        "email": null
+      },
+      {
+        "_id": "3166271493",
+        "name": "Erin Nielsen",
+        "email": null
+      },
+      {
+        "_id": "2003868560",
+        "name": "Jessica Retrum",
+        "email": "jhaxton1@msudenver.edu",
+        "affiliation": "Metropolitan State University of Denver"
+      },
+      {
+        "_id": "3102175607",
+        "name": "Eleanor Jensen",
+        "email": null,
+        "affiliation": "Kaiser Permanente"
+      },
+      {
+        "_id": "2251198338",
+        "name": "Colleen Ross",
+        "email": "colleen.ross@kp.org",
+        "affiliation": "Kaiser Permanente"
+      },
+      {
+        "_id": "3099312744",
+        "name": "Mary Mancuso",
+        "email": null,
+        "affiliation": "Anschutz Medical Campus"
+      },
+      {
+        "_id": "3105827039",
+        "name": "Melanie Drace",
+        "email": null,
+        "affiliation": "Kaiser Permanente"
+      },
+      {
+        "_id": "2914445822",
+        "name": "Angela Plata",
+        "email": null,
+        "affiliation": "Kaiser Permanente"
+      },
+      {
+        "_id": "3034772366",
+        "name": "Aurora Melnyk",
+        "email": null,
+        "affiliation": "Metropolitan State University of Denver"
+      },
+      {
+        "_id": "2914411163",
+        "name": "Matthew Golub",
+        "email": null,
+        "affiliation": "Anschutz Medical Campus"
+      },
+      {
+        "_id": "161350253",
+        "name": "Wendolyn Gozansky",
+        "email": "wendee.gozansky@uchsc.edu",
+        "affiliation": "Kaiser Permanente"
+      }
+    ]
+  },
+  {
+    "date": "2021-06-01",
+    "topic_scores": [
+      0.49098784, 0.4693784, 0.4792076, 0.48584503, 0.4467862, 0.49794424,
+      0.42102483, 0.50440925, 0.5288872, 0.4852307
+    ],
+    "topics": [
+      "Retrospective cohort study",
+      "Confidence interval",
+      "Intensive care unit",
+      "Relative risk",
+      "Surgery",
+      "Abbreviated Injury Scale",
+      "Medicine",
+      "Risk of mortality",
+      "Injury Severity Score",
+      "Prospective cohort study"
+    ],
+    "abstract": "Prospective studies of surgical stabilization of rib fractures (SSRF) have excluded elderly patients, and no study has exclusively addressed the ≥80-year-old subgroup. We hypothesized that SSRF is associated with decreased mortality in trauma patients 80 years or older. Multicenter retrospective cohort study involving eight centers. Patients who underwent SSRF from 2015 to 2020 were matched to controls by study center, age, injury severity score, and presence of intracranial hemorrhage. Patients with chest Abbreviated Injury Scale score less than 3, head Abbreviated Injury Scale score greater than 2, death within 24 hours, and desire for no escalation of care were excluded. A subgroup analysis compared early (0-2 days postinjury) to late (3-7 days postinjury) SSRF. Poisson regression accounting for clustered data by center calculated the relative risk (RR) of the primary outcome of mortality for SSRF versus nonoperative management. Of 360 patients, 133 (36.9%) underwent SSRF. Compared with nonoperative patients, SSRF patients were more severely injured and more likely to receive locoregional analgesia. There were 31 hospital deaths among the entire sample (8.6%). Multivariable regression demonstrated a decreased risk of mortality for the SSRF group, as compared with the nonoperative group (RR, 0.41; 95% confidence interval, 0.24-0.69; p < 0.01). However, SSRF patients were more likely to develop pneumonia, and had an increased duration of both mechanical ventilation and intensive care unit stay. There were no differences in discharge destination, although the SSRF group was less likely to be discharged on narcotics (RR, 0.66; 95% confidence interval, 0.48-0.90; p = 0.01). There was no difference in adjusted mortality between the early and late SSRF subgroups. Patients selected for SSRF were substantially more injured versus those managed nonoperatively. Despite this, SSRF was independently associated with decreased mortality. With careful patient selection, SSRF may be considered a viable treatment option in octogenarian/nonagenarians. Therapeutic, Level IV.",
+    "title": "Surgical stabilization of rib fractures in octogenarians and beyond-what are the outcomes?",
+    "authors": [
+      {
+        "_id": "678209419",
+        "name": "Fredric M Pieracci",
+        "email": "fredric.pieracci@dhha.org",
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "3164241650",
+        "name": "Kiara Leasia",
+        "email": null,
+        "affiliation": "Mayo Clinic"
+      },
+      {
+        "_id": "3165005928",
+        "name": "Matthew C Hernandez",
+        "email": null,
+        "affiliation": "University of Nebraska Medical Center"
+      },
+      {
+        "_id": "3164629308",
+        "name": "Brian Kim",
+        "email": null,
+        "affiliation": "Intermountain Medical Center"
+      },
+      {
+        "_id": "3165262753",
+        "name": "Emily Cantrell",
+        "email": null,
+        "affiliation": "Medical University of South Carolina"
+      },
+      {
+        "_id": "2073538378",
+        "name": "Zachary Bauman",
+        "email": "zachary.bauman@unmc.edu",
+        "affiliation": "University of Nebraska Medical Center"
+      },
+      {
+        "_id": "3164215403",
+        "name": "Scott Gardner",
+        "email": null,
+        "affiliation": "University of California, Irvine"
+      },
+      {
+        "_id": "3165801964",
+        "name": "Sarah Majercik",
+        "email": null,
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "3164555694",
+        "name": "Thomas White",
+        "email": null,
+        "affiliation": "St. Francis Medical Center"
+      },
+      {
+        "_id": "3163982534",
+        "name": "Sean Dieffenbaugher",
+        "email": null
+      },
+      {
+        "_id": "2131322132",
+        "name": "Evert Eriksson",
+        "email": "eriksson@musc.edu",
+        "affiliation": "Medical University of South Carolina"
+      },
+      {
+        "_id": "3164440353",
+        "name": "Matthew Barns",
+        "email": null
+      },
+      {
+        "_id": "2146112114",
+        "name": "D Benjamin Christie",
+        "email": "benjie_christie@yahoo.com",
+        "affiliation": "Mercer University"
+      },
+      {
+        "_id": "3165050108",
+        "name": "Erika Tay Lasso",
+        "email": null
+      },
+      {
+        "_id": "316031881",
+        "name": "Sebastian Schubl",
+        "email": "sschubl@uci.edu",
+        "affiliation": "University of California, Irvine"
+      },
+      {
+        "_id": "1989931543",
+        "name": "Angela Sauaia",
+        "email": "angela.sauaia@ucdenver.edu",
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "2587962065",
+        "name": "Andrew R Doben",
+        "email": "andrew.doben@baystatehealth.org",
+        "affiliation": "Tufts University"
+      }
+    ]
+  },
+  {
+    "date": "2021-05-24",
+    "topic_scores": [
+      0.4995769, 0.51462394, 0.45776892, 0.4928564, 0.4961522, 0.4741288,
+      0.5797703, 0.460689, 0.34543014, 0.43242905
+    ],
+    "topics": [
+      "Iloperidone",
+      "Premovement neuronal activity",
+      "Electrophysiology",
+      "Haloperidol",
+      "Cannabidiol",
+      "Atypical antipsychotic",
+      "Methylazoxymethanol acetate",
+      "Antipsychotic",
+      "Medicine",
+      "Pharmacology"
+    ],
+    "abstract": "Cortical circuit dysfunction is thought to be an underlying mechanism of schizophrenia (SZ) pathophysiology with normalization of aberrant circuit activity proposed as a biomarker for antipsychotic efficacy. Cannabidiol (CBD) shows potential as an adjunctive antipsychotic therapy; however, potential sex effects in these drug interactions remain unknown. In the present study, we sought to elucidate sex effects of CBD coadministration with the atypical antipsychotic iloperidone (ILO) on the activity of primary cortical neuron cultures derived from the rat methylazoxymethanol acetate (MAM) model used for the study of SZ. Spontaneous network activity measurements were obtained using a multielectrode array at baseline and following administration of CBD or ILO alone, or combined. At baseline, MAM male neurons displayed increased bursting activity whereas MAM female neurons exhibited no difference in bursting activity compared to sex-matched controls. CBD administered alone showed a rapid but transient increase in neuronal activity in the MAM networks, an effect more pronounced in females. Furthermore, ILO had an additive effect on CBD-induced elevations in activity in the MAM male neurons. In the MAM female neurons, CBD or ILO administration resulted in time-dependent elevations in neuronal activity, but the short-term CBD-induced increases in activity were lost when CBD and ILO were combined. Our findings indicate that CBD induces rapid increases in cortical neuronal activity, with sex-specific drug interactions upon ILO coadministration. This suggests that sex should be a consideration when implementing adjunct therapy for treatment of SZ.",
+    "title": "Sex-Specific Cannabidiol- and Iloperidone-Induced Neuronal Activity Changes in an In Vitro MAM Model System of Schizophrenia.",
+    "body": "1. Introduction Schizophrenia (SZ) is a chronic psychiatric disorder characterized by positive (e.g., hallucinations) and negative (e.g., anhedonia) symptoms, as well as debilitating cognitive dysfunction [ 1 , 2 ]. Unfortunately, currently available antipsychotics do not adequately treat these cognitive deficits [ 3 ]. Our understanding of the disorder is further complicated by the presence of sex differences in SZ [ 4 ]. For instance, men exhibit an earlier onset and poorer course of the illness [ 4 ], while women show significantly greater improvement in overall symptom severity in response to antipsychotic treatment [ 5 ]. Cortical neuronal activity has been linked to symptoms of SZ [ 6 , 7 , 8 ]. As such, an emerging mechanism underlying the pathophysiology of SZ is impaired circuit activity [ 9 ]. Specifically, clinical and preclinical studies have consistently reported aberrant cortical synchrony, functional connectivity, or laterality in SZ, and these abnormalities have been associated with cognitive deficits [ 10 , 11 ] and positive symptoms [ 8 ]. For instance, in a task of executive functioning and sensory processing, individuals with SZ displayed impaired cortical activity within the gamma (30–80 Hz) and theta (4–8 Hz) frequency bands, compared to healthy controls [ 12 , 13 , 14 , 15 , 16 , 17 ]. Thus, normalization of impaired circuit function has been proposed as a biomarker of therapeutic efficacy of antipsychotics [ 18 , 19 ]. This idea is supported by studies demonstrating that antipsychotic treatments normalize deficits in cortical activity in individuals with SZ [ 18 ] and in animal models of SZ [ 17 , 19 , 20 , 21 ]. Recently, our laboratory demonstrated that the degree of antipsychotic-induced network activity normalization in the methylazoxymethanol acetate (MAM) rat model system of SZ was greater with the administration of the atypical antipsychotic asenapine maleate, compared to the typical antipsychotic haloperidol (HAL) [ 22 ]. In line with this, the degree of normalization may positively correlate with improved cognitive functioning [ 18 , 19 ], an effect that is more prominent with atypical antipsychotics than typical antipsychotics [ 23 ]. This difference in efficacy between these two drug classes is postulated to be due to the increased affinity of atypical antipsychotics for serotonin over dopamine receptors [ 23 ].  Although current antipsychotics successfully treat acute positive symptoms, long-term improvement of other symptoms, particularly negative symptoms, is low [ 24 ]. Furthermore, some atypical antipsychotics have been found to impair cognitive function in a dose-dependent manner [ 25 , 26 ]. As such, poor treatment responses, in addition to poor insight due to illness, are the biggest contributors to the high rate of treatment non-adherence in SZ [ 24 , 27 , 28 , 29 ]. Thus, it is imperative that safe and effective treatment strategies are developed that show improved efficacy and compliance.  One promising approach has been the use of the non-psychoactive cannabinoid cannabidiol (CBD) as an adjunctive therapy for the treatment of SZ [ 30 , 31 , 32 , 33 , 34 ]. For instance, a recent study demonstrated that when individuals with SZ were given adjunctive CBD to their current antipsychotic treatment, there was an increased tolerability profile and efficacy of positive and cognitive symptom management [ 34 ]. Moreover, it has been suggested that CBD adjunctive therapy may be particularly suitable in patients that exhibit antipsychotic resistance after a case study reported the full remission of an individual with severe, antipsychotic resistant SZ following adjunctive CBD [ 35 ]. As such, CBD may complement antipsychotic treatments due to its different mechanism of action [ 35 ]. Conversely, it has also been reported that 6 weeks of added CBD treatment had no significant effect on antipsychotic-treated individuals with chronic SZ [ 36 ]. Thus, additional investigations are necessary to elucidate the effectiveness of adjunctive CBD with antipsychotics in SZ. Importantly, the impact of adjunctive CBD on antipsychotic-induced normalization of network activity in SZ is unknown.  In the present study, we sought to evaluate the effects of CBD adjunctive to the atypical antipsychotic iloperidone (ILO) on the activity of rat primary cortical neurons derived from the MAM model system of SZ and to determine whether sex-dependent effects could be detected. Comparisons to the traditional antipsychotic HAL were also performed. The findings showed that there exists sexand model-specific drug-induced changes in neuronal systems activity, indicating that sex should be an important consideration when employing adjunct therapy, as drug interaction effects may be different. 2. Results 2.1. MAM Rats Exhibit Sex-Specific Differences in Baseline Neuronal Activity In the present study, we sought to elucidate the impact of CBD administration alone, or with ILO, on neuronal systems activity in vitro in cortical neurons derived from the MAM model system of SZ, and to evaluate sex differences. Using cortical neuron-glial co-cultures, we showed that neurons developed normally over the course of 4 weeks ( Figure 1 A,B), with a transient increase in the expression of both synapsin 1 (Syn1) and postsynaptic density 95 (PSD-95) proteins. Multielectrode array (MEA) recordings were performed on day 21 with raster plots showing baseline activity for each group ( Figure 1 C). Analysis of the firing rate ( Figure 1 D) showed significant sex and model effects (Sex: F(1, 1156) = 17.1,  p  < 0.001; Model: F(1, 1156) = 7.0,  p  < 0.008). Female SAL neurons innately displayed lower cortical neuronal firing compared to control males ( p  = 0.036), an effect also observed between the MAM female versus MAM male neurons ( p  = 0.009). Conversely, no difference in the neuronal firing rate was evident between groups of the same sex. There was no innate difference in bursting activity between male and female SAL neurons ( Figure 1 E,F). However, neurons from male MAM rats exhibited elevated bursting activity compared to their SAL control counterparts ( p  < 0.001 for both number of bursts and bursting frequency). The female MAM neurons did not show this elevation in bursting and were not different from the female SAL neurons. There were no sex differences observed in the inter-burst interval with the SAL neurons ( Figure 1 G). However, both male ( p  < 0.001) and female ( p  = 0.029) MAM-derived neurons showed a reduced interval compared to their same-sex counterparts (Number of Bursts. Model: F(1, 1156) = 10.6,  p  = 0.001; Sex x Model: F(1, 1156) = 12.1,  p  = 0.001, Burst Frequency. Model: F(1, 1104) = 13.5,  p  < 0.001; Sex x Model: F(1, 1104) = 11.6,  p  = 0.001, Inter-burst Interval. Model: F(1, 1072) = 26.4,  p  < 0.001). We next evaluated network activity and showed a lower synchrony index in the female SAL neurons compared to the other groups, and with no other group differences observed ( Figure 1 H, Sex: F(1, 86) = 8.0,  p  = 0.006). Male MAM-derived neurons showed significantly elevated network bursts compared to all other groups, with no other group differences present ( Figure 1 I, Sex: F(1, 92) = 4.5,  p  = 0.037; Model: F(1, 92) = 5.3,  p  = 0.023; Sex x Model: F(1, 92) = 4.50,  p  = 0.037). 2.2. Drug-Induced Effects on Neuronal Activity in Male Control Rat Cortical Neurons We next sought to elucidate temporal drug-induced changes in neuronal systems activity for each of the groups. Raster plots for the male SAL neurons are depicted in  Figure 2 A. ANOVA revealed a significant drug effect for the firing rate at 5 min (F(5, 286) = 3.8,  p  = 0.002). Administration of ILO or CBD+ILO increased the mean firing rate of cortical neurons within 5 min with effects lost by 20 min, such that there was no difference when compared to VEH administration ( Figure 2 B). A CBD-induced reduction in the firing rate of neurons was observed 24 h post-administration ( p  = 0.011). Similarly, ILO or CBD+ILO, or CBD+HAL, increased the number of bursts at 5 min (F(5, 286) = 4.8,  p  < 0.001), with CBD or CBD+ILO inducing a decrease in burst number (F(5, 287) = 7.0,  p  < 0.001) and burst frequency (F(5, 246) = 8.5,  p  < 0.001) at 24 h ( Figure 2 C,D). CBD or CBD+ILO also increased the inter-burst interval at 24 h post-administration compared to VEH ( p  = 0.016,  p  = 0.008, respectively,  Figure 2 E). When network activity was evaluated, only CBD+ILO resulted in an elevated synchrony index in the SAL male neurons ( p  = 0.044), with no drug effects on the number of network bursts at any time point ( Figure 2 F,G).  2.3. Drug-Induced Effects on Neuronal Activity in Female Control Rat Cortical Neurons Drug effects on neuronal activity in the female SAL neurons were next evaluated with group raster plots, shown in  Figure 3 A. All drugs induced a transient decrease in the firing rate, number of bursts, and burst frequency, with all drugs inducing significantly reduced activity by 24 h ( Figure 3 B–D, Drug effects. Firing rate: (F(5, 373) = 2.2,  p  < 0.053; Number of bursts: (F(5, 373) = 5.5,  p  < 0.001); Burst frequency: (F(5, 354) = 4.8,  p  < 0.001). HAL appeared to induce these effects more rapidly, with reduced firing and bursting activity apparent within 5 min. There were no group differences in the inter-burst interval, synchrony index, or the number of network bursts ( Figure 3 E–G).  2.4. Drug-Induced Effects on Neuronal Activity in Male MAM Rat Cortical Neurons The impact of CBD and/or antipsychotic administration on neuronal systems activity was next determined, with raster plots for the male MAM neurons shown in  Figure 4 A. There were significant drug effects evident at 5 min for neuronal firing rate (F(5, 321) = 3.5,  p  = 0.004), number of bursts (F(5, 321) = 3.4,  p  = 0.005), and burst frequency (F(5, 268) = 5.2,  p  < 0.001). At 5 min, CBD was the only drug, when administered alone, that affected neuronal activity ( Figure 4 B–D), with the exception of HAL, which reduced the inter-burst interval compared to VEH treatment ( p  = 0.037,  Figure 4 E). Specifically, CBD administration resulted in a higher firing rate ( Figure 4 B) and burst frequency ( Figure 4 D) of male MAM cortical neurons, with these effects exacerbated with the addition of ILO. There were no effects on the number of bursts or inter-burst interval by CBD alone; however, CBD+ILO resulted in a significant elevation in the number of bursts ( Figure 4 C,E). At 24 h, CBD suppressed the number of bursts and burst frequency, similar to that observed in the male and female SAL neurons. However, these effects were not seen in the CBD+ILO group at 24 h. For inter-burst interval, no effects were observed with any drug at any time points except for HAL alone, which induced a decrease at 5 min ( p  = 0.041), and CBD+HAL, which induced an increase in the inter-burst interval at 20 min ( p  = 0.035). It is also noteworthy that, unlike that observed in the SAL control neurons, when compared to baseline ( Figure 1 ), only the addition of CBD or CBD+ILO induced an overall increase in neuronal activity in all three measures—firing rate, number of bursts, and burst frequency—at 5 min ( p  < 0.001 for each measure, in both groups), effects that diminished by 24 h. Network activity analysis showed no drug-induced differences ( Figure 4 F,G). Together, these findings demonstrate the additive effects of CBD+ILO administration in the male MAM neurons.  2.5. Drug-Induced Effects on Neuronal Activity in Female MAM Rat Cortical Neurons Finally, we examined drug effects in the female MAM neurons with raster plots showing neuronal activity, depicted in  Figure 5 A. In these neurons, we observed significant short-term effects of CBD on neuronal activity, with CBD-induced elevations in firing rate ( p  = 0.017), burst number ( p  = 0.006), and burst frequency ( p  = 0.004) at 5 min compared to VEH-treated MAM neurons ( Figure 5 B–D, Drug effects. Firing rate: F(5, 249) = 4.1,  p  = 0.001; Number of bursts: F(5, 249) = 4.7,  p  < 0.001; Burst frequency: F(5, 157) = 2.4,  p  < 0.04). However, when ILO was co-administered, these CBD-induced effects were abolished. HAL or ILO alone had similar effects on neuronal activity, increasing neuronal firing and/or bursting activity at 5 min, effects also seen at 24 h (Drug effects. Firing rate: F(5, 252) = 5.0,  p  < 0.001, Number of bursts: F(5, 252) = 9.8,  p  < 0.001, Burst frequency: F(5, 226) = 10.3,  p  < 0.001). There were no drug effects observed on the inter-burst interval ( Figure 5 E) or on network activity ( Figure 5 F,G). When compared to baseline ( Figure 1 ), the addition of CBD or ILO increased the firing rate (CBD:  p  = 0.04; ILO,  p  = 0.02), number of bursts (CBD:  p  = 0.001; ILO,  p  = 0.03), and burst frequency (CBD:  p  < 0.001; ILO,  p  = 0.002) at 5 min, which returned to baseline levels by 24 h. These findings demonstrate that CBD or antipsychotics alone had the most robust effects in the female MAM neurons; however, these effects were attenuated when the drugs were combined. 3. Discussion The present study aimed to delineate the temporal and sex-dependent effects of acute CBD, alone or in combination with HAL or ILO, on neuronal activity of primary cortical neurons derived from the MAM neurodevelopmental animal model of SZ. We demonstrated that at baseline, exposure to MAM in the dams significantly increased bursting activity in primary neurons derived from the male offspring, while female offspring-derived cultures exhibited no change, compared to their sex-matched SAL control groups. When administered alone, CBD induced a rapid and transient increase in neuronal activity in the MAM-derived cultures. Further, this transient increase in neuronal activity was additive when CBD was combined with ILO in MAM male neurons only. Conversely, in MAM females, co-administration of CBD with ILO abolished the effects observed when CBD was given alone. Collectively, these results suggest that CBD may elicit rapid effects through increased neuronal activity, although adjunctive CBD therapy may have differential effects in males and females. Thus, sex should be a consideration when employing combination therapy.  Baseline recordings of cortical neurons indicated sex differences in the activity of MAM-derived cultures, whereby males showed increased bursting while both males and females exhibited a decreased inter-burst interval, relative to sex-matched control cultures. The majority of studies have reported reduced spontaneous and evoked network activity, mean firing frequencies and average burst duration in cortical [ 37 , 38 , 39 ] and hippocampal (HIP) human-induced pluripotent stem cells (hiPSC) derived from SZ patients [ 40 ]. However, evidence of increased bursting and spontaneous network activity has also been found in SZ mouse model-derived HIP cultures [ 41 ] and SZ patient-derived cortical hiPSCs [ 42 ]. Notably, these studies did not examine whether the results were influenced by sex; therefore, we propose that the sex-dependent effects in our study may provide insights into the conflicting reports thus far.  It is well documented that there are prominent sex differences in SZ at both the clinical and physiological levels [ 4 , 43 , 44 ]. The incidence of SZ in men to women is 1.4:1 and the peak age of onset for SZ in men is in their early twenties. In women, although the incidence is less than that of men, the peak age of onset is later, being highest in their twenties and with an additional peak in onset in midlife, where women exhibit a higher incidence than males [ 4 , 45 ]. Men are also known to exhibit a more severe phenotype of the disease, with more severe negative and cognitive symptoms compared to women, whereas women exhibit more severe mood-related symptoms [ 4 ]. The long-term prognosis for SZ also differs between men and women, with women displaying superior long-term outcomes and responses to antipsychotic treatment [ 4 , 46 ]. Furthermore, adverse side effects of antipsychotic medications are also more prevalent in women [ 47 ]. Evidence from individuals with SZ also indicates that there are sex-dependent genetic risk factors [ 44 ], and sex differences in the serum concentrations of multiple molecules associated with inflammatory, hormonal, and growth factor signalling pathways that have been correlated to symptom severity [ 43 ]. Sex differences at the cellular and molecular level have also been reported in animal models of SZ. In the prenatal immune challenge model of SZ in mice, for example, distinct sex differences were found in microglial distribution, process arborization, oxidative stress, synaptic function, and expression of inflammatory genes that may be relevant to the increased incidence of severe SZ in males [ 48 ]. In the MAM model of SZ in mice, sex differences have been reported not only in neuronal activity, but also in the expression of regulatory proteins, primarily those involved in glutamatergic signaling in the prefrontal cortex [ 49 ]. While glutamatergic transmission drives excitation in cortical circuits, inhibition from gamma aminobutyric acid (GABA)ergic interneurons plays a key role in regulating excitability of pyramidal neurons in order to generate synchronized firing patterns required for efficient communication between neuronal ensembles [ 11 ]. Post-mortem analysis of the cingulate cortex of individuals with SZ revealed decreased and increased expression levels of GABAergic genes in men and women, respectively, compared to sex-matched controls [ 50 ]. Further, cortical GABAergic interneurons that express parvalbumin, critical regulators of activity balance in SZ [ 37 ], are reduced in number [ 51 ]. To our knowledge, sex differences in parvalbumin expression have not yet been evaluated in humans, although some findings have shown sex-specific differences in the MAM rodent model of SZ. For example, a decrease in parvalbumin-positive interneurons, in line with those observed in human SZ patients, in both MAM-treated male and female rats has been shown [ 10 , 52 ]. Conversely, Chalkiadaki et al. [ 49 ] found that MAM exposure decreased the expression of parvalbumin in male but not in female mice, and that only male mice exhibited prefrontal cortical deficits in activity, a discrepancy that may be explained by the different species employed.  In this study, we observed sexand model-specific effects in response to CBD administration alone. Both male and female MAM-derived cultures displayed rapid increases in neuronal activity, as evidenced by an elevation in the mean firing rate, number of bursts, and burst frequency in response to CBD that were absent in the SAL culture neurons. Interestingly, these effects were also present with ILO alone in the female MAM cultures. These findings may not only indicate potentially increased sensitivity of the MAM cultures to CBD, but a sex-specific sensitivity to ILO. At 24 h post-administration, however, decreased activity was evident in both male MAMand SAL-derived cultures. In the female neurons, only the SAL-derived cultures showed suppressed activity, which occurred as early as 20 min post-drug exposure. These results indicate that CBD may have unique effects in healthy individuals versus those with an underlying disorder such as SZ and, further, that this may occur in a sex-specific manner. Despite evidence of sex differences in the effects of cannabinoids such as THC, evidence of sex differences in the biological responses to CBD are lacking [ 53 ]. Additionally, evidence of CBD effects on network activity is also sparse. However, electroencephalographic (EEG) and functional magnetic resonance imaging (fMRI) studies have reported altered functional connectivity patterns and network integration following a month of CBD treatment in healthy participants [ 54 , 55 ]. Although the functional relevance of these findings is unknown, they support CBD-induced alterations in synchronized neural activity [ 54 ]. To our knowledge, our findings are the first to demonstrate transient increases in neuronal activity following CBD administration in cortical neurons derived from the MAM model of SZ, and we postulate that these alterations may be linked to the rapid physiological effects known to accompany CBD exposure [ 56 , 57 ]. Chronic CBD monotherapy has been demonstrated to exert antipsychotic properties in clinical studies [ 33 , 58 ], as well as ameliorate social and cognitive deficits in rodent models of SZ [ 59 , 60 , 61 , 62 ].  Interestingly, when administered alone, HAL and ILO showed minimal to no significant effect on neuronal activity in MAM male neurons but increased burst frequency, number of bursts, and firing rate in MAM female neurons. This finding may suggest a greater biological impact of antipsychotics in women than in men, and is in line with clinical findings showing that women respond better to antipsychotic treatment than men [ 4 ]. Further, this antipsychotic-induced increase in neuronal activity supports a previous MEA study in primary cortical neurons of wild-type (WT) mice, which reported that acute therapeutic doses of typical and atypical antipsychotics increased network-wide temporal synchronization [ 63 ]. Other MEA studies have found increased neuronal activity and synchronization with atypical antipsychotics only, and alterations in the opposite direction occurring with HAL exposure [ 64 , 65 ]. However, this discrepancy is likely a result of these experiments having been conducted in rodent primary HIP cultures and/or the model system used [ 64 , 65 ]. Interestingly, the enhanced activity in MAM femalecultures was maintained 24 h post-administration of antipsychotics, with trends evident at 20 min. This is in line with past evidence of antipsychotic-induced increases in neuronal activity at 10 min post-administration [ 63 ], and follows the pharmacological timelines observed in clinical studies. Specifically, within 24 h of receiving HAL or atypical antipsychotic medication, individuals with SZ displayed significantly increased dopamine receptor blockade [ 66 , 67 ], as well as improved positive symptoms [ 68 ]. Therefore, it is possible that the network alterations we observed at 24 h post-administration are therapeutically relevant.  Evidence suggests that positive long-term effects of antipsychotic drugs may be attributed to changes in synaptic plasticity [ 69 , 70 ]. For instance, antipsychotics are thought to induce changes in synaptic function, and subsequent network activity, through modulating the expression of synaptic proteins, dendritic branch structure, and spine density [ 64 , 65 , 70 , 71 ]. Evidence of these effects are most understood in the context of chronic treatment; however, there is evidence of acute exposure to antipsychotics modifying dendritic morphology, thereby influencing synaptic function. Acute administration of HAL and atypical antipsychotics was shown to increase dendritic complexity in primary striatal neurons after 24 h [ 72 ], and alterations in dendritic complexity of pyramidal neurons has been associated with modified neuronal activity [ 73 , 74 , 75 ]. Acute treatment with the atypical antipsychotic olanzapine was also shown to reverse spine density deficits in an animal model of SZ and required chronic treatment to maintain this effect [ 76 ]. Furthermore, studies of immediate-early genes (IEGs) suggest that the activation of IEGs with acute antipsychotic treatment plays a key role in mediating their acute therapeutic effects and may set in motion the long-term changes associated with chronic treatment [ 77 ]. Although in the present study, increased activity with HAL and ILO administration was observed in MAM-derived female cultures only, this discrepancy could be explained due to many of these studies modeling repeated exposure to antipsychotic drugs over multiple days. It is noteworthy, however, that this observation in MAM female cultures could indicate that females are also more sensitive to the sustained effects of antipsychotic drugs. As previously mentioned, adjunctive CBD therapy is a promising new approach for the treatment of SZ. Recent clinical studies have found significantly improved medication tolerability, positive symptoms, and cognitive dysfunction, with a trend of ameliorated negative symptoms, in SZ patients given adjunctive CBD [ 34 , 35 ]. However, support for a lack of significant effect of CBD on antipsychotic-treated individuals with chronic SZ has also been reported [ 36 ]. Our results suggest that the discrepancy in findings may be, at least in part, tied to sex differences. Specifically, in male MAM neurons, the combination of CBD with ILO appeared to have an additive effect, with a rapid and transient increase in neuronal activity having been observed. Although CBD with HAL was observed to induce a sustained decrease in bursting activity approaching baseline activity in SAL males at 24 h, this could simply be attributed to the effects of CBD, as this was also observed with CBD administration alone and not HAL. Conversely, while exposure to CBD or antipsychotics alone caused a transient increase in activity in MAM females, combination administration abolished the effects of either drug at all time points. Taken together, these results may indicate that CBD adjunctive therapy is more beneficial in males than females, although this hypothesis assumes that the increased neuronal activity is indeed therapeutic. As such, future studies are warranted to link these drug-induced changes in network activity with behavioural output.  It is worth noting that cortical neuron-glial co-cultures were utilized in the present study to better emulate in vivo conditions. It is well known that SZ is associated with neuroinflammation and the elevation of pro-inflammatory cytokines is associated with more severe presentation of symptoms [ 78 , 79 , 80 , 81 ]. HAL, atypical antipsychotics, and CBD have all been demonstrated to inhibit the release of pro-inflammatory cytokines in vitro [ 82 , 83 , 84 , 85 , 86 , 87 ]. The anti-inflammatory effects of these drugs, and CBD in particular, are thought to account in part for their therapeutic effects [ 60 , 82 , 88 ]. Activation of glial cells and subsequent pro-inflammatory cytokine cascades are known to influence the activity and function of neural networks through modulation of synaptic plasticity [ 89 , 90 , 91 ]. Furthermore, both microglia and astrocytes are now known to play a key role in regulating synaptic transmission [ 92 , 93 , 94 , 95 , 96 ]. Microglia have been shown to detect synaptic activity and modulate synaptic remodelling through multiple mechanisms [ 94 , 95 , 96 ]. Notably, microglial secretion of the cytokine TNF-α is known to play a key role in synaptic scaling, a key mechanism for maintaining homeostatic activity through modulation of glutamatergic signalling [ 95 , 96 , 97 ]. Although it is unclear whether CBD produces antipsychotic effects mediated through microglia in the absence of pathological microglial activation, the effects of CBD monotherapy observed in the present study may be partly attributed to its effects on the functioning of astrocytes. Although the mechanisms by which CBD modulates the activity of astrocytes are not well understood at this time, CBD has been shown to increase production of the endogenous cannabinoid anandamide [ 33 ], which is known to activate CB1 receptors to increase the release of glutamate from astrocytes, thus increasing glutamatergic transmission [ 93 , 98 , 99 ]. Indeed, the increased expression of CB1 receptors has been found in patients with SZ and in the prefrontal cortex of MAM model rats [ 100 ].  Although this study provides important insights into sex differences in CBD and antipsychotic effects, it is important to highlight limitations associated with our experimental approach. First, this study was conducted in vitro, which does not mimic the environment and intricate neuronal networks that are present in in vivo model systems. For example, structural and functional laterality are hallmarks of SZ [ 8 , 101 ] that may also exhibit sex differences [ 101 ] and which cannot be captured in in vitro systems. Second, the behavioural output associated with the changes in neuronal activity cannot be assessed and therefore, the functional relevance can only be postulated. Third, only short-term drug effects were examined and chronic treatment of SZ is required in the clinical setting [ 102 ]. Consequently, whether the alterations we observed with acute CBD and antipsychotics are sustained with long-term treatment is not known and should be the focus of future studies. In summary, it is clear that more studies are required to fully elucidate the impact of adjunctive CBD therapy on network activity in SZ and the associated sex differences and behavioural effects. In this study, our findings suggest that CBD or ILO administration alone may be more relevant in women with SZ in the context of neuronal activity, while men with SZ may benefit more from CBD adjunctive therapy with ILO. This highlights that sex should be included as a critical factor when determining treatments and that sex differences should be assessed in future studies.  4. Materials and Methods  4.1. Animals Six pregnant Sprague-Dawley rats (Charles River, QC, Canada) were injected with MAM (22 mg/kg, intraperitoneally (i.p.)) or saline (SAL) at a volume of 1 mL/kg on gestational day 17, as previously described [ 22 ]. Rats were provided food and water ad libitum and maintained on a 12 h reverse light-dark cycle (0800 h lights off; 2000 h lights on). All procedures were in accordance with the guidelines defined by the Guide to the Care and Use of Experimental Animals (Canadian Council on Animal Care, 1993) and the Animal Care Ethics Committee of the University of Guelph (protocol number: AUP#3734, approved 18 January 2018). 4.2. Cell Culture Cortical neuronal glial co-cultures were prepared from postnatal day 0–1 Sprague Dawley rat pups. Pups were euthanized by decapitation and their brains were dissected out of the skull in ice-cold dissecting media (1X HBSS, 1% 1M HEPES, 1% penicillin/streptomycin; all Gibco, Fisher Scientific, Mississauga, ON, Canada) in a glass petri dish. The meninges were removed and cerebral cortices were isolated and processed individually. Following three washes in dissecting media, the cortices were digested using 2.5% Trypsin (Gibco) at 37 °C for 20 min, inverting halfway through. The cortices were then washed twice in dissecting media, triturated, and passed through a 100 µm pore falcon cell strainer (Fisher Scientific, Ottawa, ON, Canada). Following centrifugation of the samples (200×  g  at room temperature), the supernatant was aspirated and the cells were resuspended in plating media (Neurobasal medium (Gibco), 5% fetal calf serum (Cytiva, Mississauga, ON, Canada), 2% B27 supplement (Gibco), 1% penicillin/streptomycin (Gibco), and 1% 200 mM L-glutamine (Gibco)). Cells were plated at a density of 3.0 × 10 5  cells/well onto 24-well CytoView MEA plates (Axion Biosystems, Atlanta, GA, USA) for electrophysiological recordings, 1.5 × 10 5  cells/well onto Corning 24-well plates with 12 mm glass cover slips (Fisher Scientific, Ottawa, ON, Canada) for immunocytochemistry, and 1.0 × 10 6  cells/well onto Corning 6-well plates for Western blotting. All plates were coated with 0.1 mg/mL poly-D-lysine (Sigma-Aldrich, Oakville, ON, Canada) and 2.5 µg/mL laminin (Sigma-Aldrich). Half-media changes were performed with serum-free media (Neurobasal Medium, 2% B27 supplement, 1% penicillin/streptomycin and 1% 200mM L-glutamine; Gibco) 3 hours after plating and every 3–4 days throughout the period of culture. Electrophysiology and immunocytochemistry experiments were carried out on day in vitro (DIV) 21, while cultures were maintained up to DIV 28 for Western blotting. 4.3. Drugs and Treatment of Cell Cultures MAM was purchased from MRI Global (Kansas City, MO, USA). ILO (Sigma-Aldrich, Oakville, ON, Canada), HAL (Sigma-Aldrich, Oakville, ON, Canada), and CBD (Toronto Research Chemicals, North York, ON, Canada) were dissolved as stocks in DMSO to a concentration of 1 mM (ILO, HAL) or 10 mM (CBD). For all experiments, fresh serum free medium supplemented with compounds was added directly to well with cells. Final concentrations for ILO and HAL was 100 nM (0.02% DMSO) and 1 µM (0.02% DMSO) for CBD. These concentrations were based on previous studies [ 64 , 103 ].  4.4. MEA Recordings All MEA readings were performed using the Maestro Edge multi-well MEA recorder (Axion Biosystems, Atlanta, GA, USA) and recorded with the Maestro system and Axion's Integrated Studio (AxIS, Axion Biosystems, Atlanta, GA, USA) software configured to neuronal–spontaneous activity. Active electrodes were defined as >5 spikes/min across wells. Plates were maintained at 37 °C for the duration of recordings. Electrical activity was recorded for 10 min prior to drug treatments, as well as 5 min, 20 min, and 24 h post-drug administration. Recordings were taken at a sampling rate of 12.5 kHz, a gain of 1000 times, and a spike detection threshold of 6 times standard deviation. Burst detection criteria was defined as having a maximum inter-spike interval of 100 msec and a minimum of 5 spikes. Network burst detection criteria was set to a maximum inter-spike interval of 100 ms, a minimum of 50 spikes and at least 35% of active electrodes spiking simultaneously. Spike files were processed and analyzed using the NeuralMetric Tool software (Axion Biosystems, Atlanta, GA, USA).  4.5. Immunocytochemistry Immunocytochemistry was performed as done previously [ 104 ]. In each well, 500 µL of media was replaced with 8% paraformaldehyde and then incubated for 30 min at room temperature. After fixation, cells were washed three times in 1X phosphate-buffered saline (PBS) for 10 min and then blocked in 5% non-fat milk, 4% bovine serum albumin (BSA) (Thermo Fischer Scientific, Canada) and 0.1% Triton x100 (Fisher Scientific, Ottawa, ON, Canada) in 1X PBS for 60 min at room temperature. Cells were immunostained with a primary antibody for MAP2 (1:1000, Sigma-Aldrich, Oakville, ON, Canada), followed by secondary donkey anti-rabbit Alexa Fluor 594 (1:500, Invitrogen, Life Technologies, Burlington, ON, Canada), Alexa Fluor 488 phalloidin (100 nM, Invitrogen), and DAPI (1 µg/mL; Cell Signaling, Whitby, ON, Canada). Cover slips with cultured cortical networks were mounted on microscope slides with Prolong Gold (Invitrogen) overnight at 4 °C and subsequently imaged using a Nikon Eclipse Ti2 at 20 times magnification.  4.6. Western Blotting For Western blot analyses, cells were collected in ice-cold RIPA buffer (Sigma-Aldrich, Oakville, ON, Canada) with added phosphatase and protease inhibitors. Samples were centrifuged at 17,530×  g  for 15 min at 4 °C, supernatants were transferred to a fresh tube, and lysates were stored in aliquots at −80 °C until time of analysis. Protein concentrations were determined using the Bradford assay (Bradford, 1976). Protein samples (20 μg) were loaded onto a 10% sodium dodecyl sulfate (SDS) polyacrylamide gel for electrophoresis at 100 V using a Mini-PROTEAN Tetra cell system (Bio-Rad, Mississauga, ON, Canada). Proteins were then transferred at 25 V for 30 min onto polyvinylidene difluoride (PVDF) membrane (Bio-Rad, Mississauga, ON, Canada) using a Trans-Blot SD Turbo apparatus (Bio-Rad). Membranes were briefly washed in tris-buffered saline (TBS) with 0.1% Tween-20 (TBS-T) and then blocked in either 5% non-fat milk or 5% BSA (Fisher Scientific, Ottawa, ON, Canada) in TBS-T for 1 h at room temperature. Following blocking, membranes were washed twice with TBS-T and incubated overnight at 4 °C in primary antibody specific for either PSD-95 (1:1000, Cell Signaling, Whitby, ON, Canada), synapsin-1 (1:10,000,New England Biolabs, Whitby, ON, Canada), or β-actin (1:10,000, Abcam, Toronto, ON, Canada). Blots were washed three times with TBS-T, incubated with anti-rabbit horseradish peroxidase (HRP)-conjugated polyclonal secondary antibody (1:6000; Bio-Rad, Mississauga, ON, Canada) in milk or BSA for 1 h at room temperature, and then washed three times with TBS-T. Bands were visualized using enhanced chemiluminescence (ECL) (Bio-Rad) on a ChemiDoc MP imaging system (Bio-Rad, Mississauga, ON, Canada).  4.7. Statistical Analysis Prior to all analyses, a Shapiro–Wilk test was used to assess normality and differences in group variance assessed by Levene's test. Baseline measurements for each experimental group were taken from all active electrodes across each plate. Following drug treatment, activity measures were calculated using data from all active electrodes in each of the 4 wells. The mean firing rate, number of bursts, inter-burst interval, and burst frequency were calculated using data from all active electrodes within a treatment group whereas number of network bursts and synchrony index were calculated using the mean from each well with more than 6 active electrodes. Baseline data was analyzed using a two-way analysis of variance (ANOVA) with sex and model as between-subject effects, and significant between group differences determined by Bonferroni or Games–Howell post-hoc tests as appropriate. Post-drug administration data were analyzed at each time point using a one-way ANOVA, with treatment as a between-subjects variable, followed by planned comparisons using Student's  t -test. Computations were performed using IBM SPSS 27 software and are expressed as mean ± SEM. Statistical significance was defined as  p  < 0.05.",
+    "authors": [
+      {
+        "_id": "2864126041",
+        "name": "Rachel Karson Theriault",
+        "email": null,
+        "affiliation": "University of Guelph"
+      },
+      {
+        "_id": "3164774730",
+        "name": "Myles St Denis",
+        "email": null,
+        "affiliation": "University of Guelph"
+      },
+      {
+        "_id": "3164379379",
+        "name": "Tristen Hewitt",
+        "email": null,
+        "affiliation": "University of Guelph"
+      },
+      {
+        "_id": "2026344052",
+        "name": "Jibran Y Khokhar",
+        "email": "jkhokhar@uoguelph.ca",
+        "affiliation": "University of Guelph"
+      },
+      {
+        "_id": "2126252740",
+        "name": "Jasmin Lalonde",
+        "email": "jlalon07@uoguelph.ca",
+        "affiliation": "University of Guelph"
+      },
+      {
+        "_id": "2326212961",
+        "name": "Melissa L Perreault",
+        "email": "perreaum@uoguelph.ca",
+        "affiliation": "University of Guelph"
+      }
+    ]
+  },
+  {
+    "date": "2021-05-19",
+    "topic_scores": [
+      0.5597548, 0, 0, 0.40959868, 0.41387227, 0, 0, 0.38482675, 0.489479,
+      0.5001292
+    ],
+    "topics": [
+      "Flail chest",
+      "Cost of treatment",
+      "Fracture type",
+      "Average cost",
+      "Surgery",
+      "Hospitalization cost",
+      "In patient",
+      "Medicine",
+      "Injury Severity Score",
+      "Body region"
+    ],
+    "abstract": "The aim of this study is to define the cost of rib fracture hospitalization by single, multiple, and flail type using a nationally representative sample. The national inpatient sample (NIS) was used to identify patients with a primary diagnosis of rib fracture hospitalization 2007-2016. International Classification of Diseases, Ninth Revision (ICD-9) and Tenth Revision (ICD-10) codes were used to characterize patients as having single, multiple, or flail chest rib fractures. Patients with only trauma related diagnosis groups (DRG) at the time discharge were included in the final sample. The cost of hospitalization was obtained by converting reported charges into cost using the all-payer inpatient cost-to-charge ratio (CCR) for all hospitals in the NIS data. The log of cost was modeled using multivariate linear regression. The rib fracture type was the primary predictor in the model. There were 373,053 rib fracture admissions during 2007-2016. The average cost per hospitalization was $10,169 (95%Confidence Interval [CI]: 9,942-10,395), which translated into a national expenditure of $3.64 billion over 10 years. The cost of rib fracture hospitalization increased from $209 million in 2007 to $469 million in 2016. Compared to single rib fracture patients, the cost of hospitalization for multiple rib fractures and flail chest was 3% (p = 0.001) and 5% (p=0.02) higher, respectively. Higher injury severity score, total number of body regions injured and longer length of stay were associated with higher rib fracture hospitalization cost. Rib fractures affect ~22,000-45,000 people per year in the United States. The cost of rib fractures is over $469 million per year and is increasing over time. Multiple rib fractures and flail chest rib fractures are associated with increased cost. Pathways to improve care in patients with rib fractures should consider the cost of treatment.",
+    "title": "The financial burden of rib fractures: National estimates 2007 to 2016.",
+    "authors": [
+      {
+        "_id": "3089598184",
+        "name": "Anuja L Sarode",
+        "email": "anuja.sarode2@uhhospitals.org",
+        "affiliation": "University Hospitals of Cleveland"
+      },
+      {
+        "_id": "3024714158",
+        "name": "Vanessa P Ho",
+        "email": "vho@metrohealth.org",
+        "affiliation": "Case Western Reserve University"
+      },
+      {
+        "_id": "678209419",
+        "name": "Fredric M Pieracci",
+        "email": "fredric.pieracci@dhha.org",
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "3161835657",
+        "name": "Mathew L Moorman",
+        "email": null,
+        "affiliation": "University Hospitals of Cleveland"
+      },
+      {
+        "_id": "2617033559",
+        "name": "Christopher W Towe",
+        "email": "christopher.towe@uhhospitals.org",
+        "affiliation": "Case Western Reserve University"
+      }
+    ]
+  },
+  {
+    "date": "2021-05-05",
+    "topic_scores": [
+      0.5297143, 0.46541712, 0.45967597, 0.45341867, 0.45912012, 0.5275507,
+      0.5194787, 0.46790555, 0.39347675, 0.4757994
+    ],
+    "topics": [
+      "Intercostal nerve block",
+      "Randomized controlled trial",
+      "Catheter",
+      "Anesthesia",
+      "Liposomal Bupivacaine",
+      "Bupivacaine",
+      "Respiratory function",
+      "Pulmonary contusion",
+      "Medicine",
+      "Injury Severity Score"
+    ],
+    "abstract": "Loco-regional analgesia (LRA) remains underutilized in patients with chest wall injuries. Surgical stabilization of rib fractures (SSRF) offers an opportunity to deliver surgeon-directed LRA under direct visualization at the site of surgical intervention. We hypothesized that a single-dose liposomal bupivacaine (LB) intercostal nerve block provides comparable analgesia to an indwelling, peripheral nerve plane analgesic catheter with continuous bupivacaine infusion (IC), each placed during SSRF. Non-inferiority, single center, randomized clinical trial (2017-2020). Patients were randomized to receive either IC or LB during SSRF. The IC was tunneled into the surgical field (subscapular space) and LB involved thoracoscopic intercostal blocks of ribs 3-8. The primary outcome was the Sequential Clinical Assessment of Respiratory Function (SCARF) score, measured daily for 5 days post-operatively. Secondary outcomes included daily narcotic equivalents and failure of primary LRA, defined as requiring a second LRA modality. Thirty-four patients were enrolled; 16 IC and 18 LB. Age, injury severity score, RibScore, Blunt Pulmonary Contusion Score, and use of non-narcotic analgesics was similar between groups. Duration of IC was 4.5 days. There were three failures in the IC group versus one in the LB group (p=0.23). There was no significant difference in SCARF score between the IC and LB groups. On post-operative days 2-4, narcotic requirements were less than half in the LB, as compared to the IC group; however, this difference was not statistically significant. Average wholesale price was $605 for IC and $434 for LB. In this non-inferiority trial, LB provided at least comparable, and potentially superior LRA as compared to IC among patients undergoing SSRF. Level II, Therapeutic.",
+    "title": "A randomized clinical trial of single dose liposomal bupivacaine versus indwelling analgesic catheter in patients undergoing surgical stabilization of rib fractures.",
+    "authors": [
+      {
+        "_id": "3157450015",
+        "name": "Kiara Leasia",
+        "email": null,
+        "affiliation": "Hospital Authority"
+      },
+      {
+        "_id": "2717154198",
+        "name": "Christopher Ciarallo",
+        "email": null
+      },
+      {
+        "_id": "2995063052",
+        "name": "Jonne T H Prins",
+        "email": "j.prins@erasmusmc.nl",
+        "affiliation": "Erasmus University Rotterdam"
+      },
+      {
+        "_id": "1993239749",
+        "name": "Candice Preslaski",
+        "email": "candice.preslaski@dhha.org",
+        "affiliation": "Denver Health Medical Center"
+      },
+      {
+        "_id": "3159751836",
+        "name": "Elizabeth Perkins Pride",
+        "email": null
+      },
+      {
+        "_id": "2149665767",
+        "name": "Kimberly Hardin",
+        "email": "kimberly.harden@dhha.org",
+        "affiliation": "University of California, Davis"
+      },
+      {
+        "_id": "2982435699",
+        "name": "Alexis Cralley",
+        "email": "alexis.cralley2@dhha.org",
+        "affiliation": "Denver Health Medical Center"
+      },
+      {
+        "_id": "2091861251",
+        "name": "Clay Cothren Burlew",
+        "email": "clay.cothren@dhha.org",
+        "affiliation": "Denver Health Medical Center"
+      },
+      {
+        "_id": "2212509740",
+        "name": "Jamie J Coleman",
+        "email": "jamie.coleman@dhha.org",
+        "affiliation": "Denver Health Medical Center"
+      },
+      {
+        "_id": "2156526514",
+        "name": "Mitchell J Cohen",
+        "email": "mitchell.cohen@dhha.org",
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "2583689204",
+        "name": "Ryan Lawless",
+        "email": "ryan.lawlessmd@gmail.com",
+        "affiliation": "Denver Health Medical Center"
+      },
+      {
+        "_id": "2765783699",
+        "name": "K Barry Platnick",
+        "email": null,
+        "affiliation": "Hospital Authority"
+      },
+      {
+        "_id": "2140201911",
+        "name": "Ernest E Moore",
+        "email": "ernest.moore@dhha.org",
+        "affiliation": "University of Colorado Denver"
+      },
+      {
+        "_id": "678209419",
+        "name": "Fredric M Pieracci",
+        "email": "fredric.pieracci@dhha.org",
+        "affiliation": "University of Colorado Denver"
+      }
+    ]
+  },
+  {
+    "date": "2021-05-01",
+    "topic_scores": [
+      0.439915, 0.4758493, 0.5051377, 0.52172256, 0.44313607, 0.47307116,
+      0.4400914, 0.5128082, 0.40371445, 0.4217288
+    ],
+    "topics": [
+      "Glial fibrillary acidic protein",
+      "Neuropsychology",
+      "Traumatic brain injury",
+      "Neuropsychological assessment",
+      "Cognition",
+      "Effects of sleep deprivation on cognitive performance",
+      "Working memory",
+      "Neurocognitive",
+      "Medicine",
+      "Internal medicine"
+    ],
+    "abstract": "This study examines the relationship of serum total tau, neurofilament light (NFL), ubiquitin carboxyl-terminal hydrolase L1 (UCH-L1), and glial fibrillary acidic protein (GFAP) with neurocognitive performance in service members and veterans with a history of traumatic brain injury (TBI). Service members (n = 488) with a history of uncomplicated mild (n = 172), complicated mild, moderate, severe, or penetrating TBI (sTBI; n = 126), injured controls (n = 116), and non-injured controls (n = 74) prospectively enrolled from Military Treatment Facilities. Participants completed a blood draw and neuropsychological assessment a year or more post-injury. Six neuropsychological composite scores and presence/absence of mild neurocognitive disorder (MNCD) were evaluated. Within each group, stepwise hierarchical regression models were conducted. Within the sTBI group, increased serum UCH-L1 was related to worse immediate memory and delayed memory (R2Δ = .065-.084, ps < .05) performance, while increased GFAP was related to worse perceptual reasoning (R2Δ = .030, p = .036). Unexpectedly, within injured controls, UCH-L1 and GFAP were inversely related to working memory (R2Δ = .052-.071, ps < .05), and NFL was related to executive functioning (R2Δ = .039, p = .021) and MNCD (Exp(B) = 1.119, p = .029). Results suggest GFAP and UCH-L1 could play a role in predicting poor cognitive outcome following complicated mild and more severe TBI. Further investigation of blood biomarkers and cognition is warranted.",
+    "title": "Blood Biomarkers Relate to Cognitive Performance Years after Traumatic Brain Injury in Service Members and Veterans",
+    "authors": [
+      {
+        "_id": "2172903956",
+        "name": "Sara M Lippa",
+        "email": null,
+        "affiliation": "Walter Reed National Military Medical Center"
+      },
+      {
+        "_id": "2308556840",
+        "name": "Jessica Gill",
+        "email": "gillj@mail.nih.gov",
+        "affiliation": "National Institutes of Health"
+      },
+      {
+        "_id": "2273949821",
+        "name": "Tracey A Brickell",
+        "email": "tbrickell@dvbic.org",
+        "affiliation": "Walter Reed National Military Medical Center"
+      },
+      {
+        "_id": "2617559253",
+        "name": "Louis M French",
+        "email": "louis.french@us.army.mil",
+        "affiliation": "Walter Reed National Military Medical Center"
+      },
+      {
+        "_id": "2950129705",
+        "name": "Rael T Lange",
+        "email": "rlange@dvbic.org",
+        "affiliation": "Walter Reed National Military Medical Center"
+      }
+    ]
+  },
+  {
+    "date": "2021-05-01",
+    "topic_scores": [
+      0.5021945, 0, 0, 0.4010191, 0.4207971, 0, 0.4312317, 0, 0.42718968,
+      0.43536404
+    ],
+    "topics": [
+      "Traumatic brain injury",
+      "Posttraumatic amnesia",
+      "Objective evaluation",
+      "Stepwise regression",
+      "Cognition",
+      "Moderate to severe",
+      "Medical record",
+      "Posttraumatic stress",
+      "Medicine",
+      "Internal medicine"
+    ],
+    "abstract": "This study examined the relationship between intracranial abnormalities (ICAs) and self-reported neurobehavioral and posttraumatic stress (PTS) symptoms in members of the military with moderate-to-severe traumatic brain injury (msTBI). Participants included 539 members of the US military with nonpenetrating msTBI. Self-reported neurobehavioral and PTS symptoms were assessed using the Neurobehavioral Symptom Inventory and the PTSD Checklist-Civilian Version. ICAs were categorized as present/absent (by subtype) based upon medical record review. Spearman rank-order correlations and stepwise multiple regression analyses examined univariate and combined predictive relationships between ICAs and self-reported symptoms. The presence of any ICA was associated with reduced self-reported neurobehavioral and PTS symptoms. ICA-associated reductions were largest for PTS, followed by affective and cognitive neurobehavioral symptoms, and relatively weak for somatic/sensory and vestibular symptoms. Effects of different types of ICAs were comparable. Greater time since injury was related to greater symptom report, whereas duration of loss of consciousness and posttraumatic amnesia were not consistently related to self-reported symptoms. Results suggest that ICAs are associated with suppression of reported PTS and neurobehavioral symptoms-potentially via reduction in self-awareness. These findings support comprehensive, objective evaluation to identify impairments in self-awareness and functioning in msTBI patients.",
+    "title": "Intracranial Abnormalities Are Associated With Fewer Self-Reported Symptoms in Military Service Members Following Moderate-to-Severe Traumatic Brain Injury.",
+    "authors": [
+      {
+        "_id": "3105022128",
+        "name": "Jenna K Trotta",
+        "email": null,
+        "affiliation": "Silver Spring Networks"
+      },
+      {
+        "_id": "3104855464",
+        "name": "Vindhya Ekanayake",
+        "email": null,
+        "affiliation": "Naval Medical Center San Diego"
+      },
+      {
+        "_id": "3175816243",
+        "name": "Mark L Ettenhofer",
+        "email": null,
+        "affiliation": "General Dynamics"
+      },
+      {
+        "_id": "2889686993",
+        "name": "Lars D Hungerford",
+        "email": null,
+        "affiliation": "Naval Medical Center San Diego"
+      },
+      {
+        "_id": "3110420349",
+        "name": "Rael T Lange",
+        "email": null,
+        "affiliation": "Uniformed Services University of the Health Sciences"
+      },
+      {
+        "_id": "3175054295",
+        "name": "Jason M Bailie",
+        "email": null,
+        "affiliation": "University of California, San Diego"
+      },
+      {
+        "_id": "2273949821",
+        "name": "Tracey A Brickell",
+        "email": "tbrickell@dvbic.org",
+        "affiliation": "Walter Reed National Military Medical Center"
+      },
+      {
+        "_id": "3106977027",
+        "name": "Jan E Kennedy",
+        "email": null,
+        "affiliation": "Walter Reed National Military Medical Center"
+      },
+      {
+        "_id": "2617559253",
+        "name": "Louis M French",
+        "email": "louis.french@us.army.mil",
+        "affiliation": "Walter Reed National Military Medical Center"
+      }
+    ]
+  }
+]

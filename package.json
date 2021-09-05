@@ -24,6 +24,13 @@
   },
   "homepage": "https://github.com/Re9iNee/Scitodate-Test#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "mongoose": "^6.0.4",
+    "nanoid": "^3.1.25"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }

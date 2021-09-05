@@ -42,20 +42,14 @@ export default class Authors extends React.Component {
         <ul>
           {/* Render all authors */}
           {this.state.authors
-            .filter((val) => {
-              // query items (using searchbar)
-              if (this.state.searchTerm === "") {
-                return val;
-              } else if (
+            // query items (using searchbar)
+            .filter(
+              (val) =>
+                this.state.searchTerm === "" ||
                 val.name
                   .toLowerCase()
                   .includes(this.state.searchTerm.toLowerCase())
-              ) {
-                return val;
-              } else {
-                return false;
-              }
-            })
+            )
             .map((author) => {
               return (
                 <li key={author._id}>

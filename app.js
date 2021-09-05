@@ -3,6 +3,7 @@ const Authors = require("./models/authors");
 const Papers = require("./models/papers");
 const { nanoid } = require("nanoid");
 
+// TODO: this file needs serious optimizations :)
 async function processData(path) {
   const datas = JSON.parse(readFileSync(path, { encoding: "utf-8" }));
 
@@ -42,9 +43,7 @@ async function processData(path) {
     }
   }
 
-  // NOTE: is there a way to find in Authors locally? cause we would upload once. without any modifications to Authors Papers, and we would do that locally
   // Process Papers
-
   let allPapers = new Array();
   for (let data of datas) {
     //   Gather all authorsIDs for this paper
@@ -53,22 +52,10 @@ async function processData(path) {
       thisPaperAuthIDs.push(author._id);
     }
 
-    // Generate newId
+    // Generate newId for this paper
     const paperId = nanoid();
     //   Assign this paper to Authors
-    // NOTE: Solution #1: using MongoDB to update Index
-    // for (let AuthId of thisPaperAuthIDs) {
-    //   try {
-    //     const resp = await Authors.findByIdAndUpdate(AuthId, {
-    //       $push: { papers: `${paperId}` },
-    //     }).exec();
-    //     console.log("Updating Authors: ", resp);
-    //   } catch (err) {
-    //     console.log("Updating Authors: ", err);
-    //   }
-    // }
-
-    // Solution #2: update Authors locally. (assign PaperId to Authors)
+    // update Authors locally. (assign PaperId to Authors)
     for (let AuthId of thisPaperAuthIDs) {
       let existedAuthorIndex = allAuthIDs.indexOf(AuthId);
       if (existedAuthorIndex > -1) {

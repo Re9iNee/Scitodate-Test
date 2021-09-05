@@ -5,7 +5,7 @@ require("dotenv").config();
 
 // Recommended: express.json({limit: '1mb'})
 app.use(express.json());
-
+// if you want to use custom port, change /client/package.json proxy settings. (currently set to http://localhost:5000)
 const port = process.env.SERVER_PORT || 5000;
 app.listen(port, () => console.log(`Listening on ${port}`));
 

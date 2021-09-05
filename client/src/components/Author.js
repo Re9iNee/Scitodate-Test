@@ -13,6 +13,7 @@ class Author extends React.Component {
   }
 
   componentDidMount() {
+    // Load author him/her self
     this.loadAuthor(this.state.id)
       .then((res) =>
         this.setState({
@@ -20,6 +21,8 @@ class Author extends React.Component {
         })
       )
       .catch((err) => console.log(err));
+
+    // Load all papers that this author wrote
     this.loadPapers(this.state.id)
       .then((res) =>
         this.setState({
@@ -27,6 +30,8 @@ class Author extends React.Component {
         })
       )
       .catch((err) => console.log(err));
+
+    // Load all coAuthors that worked with this author (:id)
     this.loadCoAuthors(this.state.id)
       .then((res) =>
         this.setState({
@@ -85,6 +90,7 @@ class Author extends React.Component {
         </ul>
         <h3>Co Authors:</h3>
         <ul>
+          {/* Render coAuthors */}
           {this.state.coAuthors.map((coAuthor) => (
             <li key={coAuthor._id}>
               <a href={"/Authors/" + coAuthor._id}>{coAuthor.name}</a>
@@ -97,5 +103,6 @@ class Author extends React.Component {
   }
 }
 
+// in order to use Match object from react-router-dom.
 const AuthorWithRouter = withRouter(Author);
 export default AuthorWithRouter;

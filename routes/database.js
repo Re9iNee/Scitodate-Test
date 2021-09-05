@@ -24,10 +24,20 @@ router.post("/", (req, res) => {
     }
     const file = files.dataFile;
     const filePath = file.path;
-    await processData(filePath);
-    res
-      .status(200)
-      .json({ fields, files, message: "uploading file to database" });
+    try {
+      await processData(filePath);
+      res
+        .status(200)
+        .json({
+          response:
+            "Thank you for uploading data, go to localhost:3000/Authors/ ",
+          fileInfo: file,
+          message: "uploading file to database",
+        });
+    } catch (err) {
+      console.log("error while inserting to database: ", err, " make sure your json file is VALID.");
+      res.status(400).json({ msg: "Couldn't process data file", error: err });
+    }
   });
 });
 

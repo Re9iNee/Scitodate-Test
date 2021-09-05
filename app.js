@@ -3,21 +3,17 @@ const Authors = require("./models/authors");
 const Papers = require("./models/papers");
 const { nanoid } = require("nanoid");
 
-// TODO: this file needs serious optimizations :)
 async function processData(path) {
   const datas = JSON.parse(readFileSync(path, { encoding: "utf-8" }));
 
   let allAuthors = new Array();
   let allAuthIDs = new Array();
 
-  // TODO: AddAuthor() function
   //   Loop through all datas
+  // Process Authors
   for (let data of datas) {
     //   Gather all authorsIDs for this paper
-    let thisPaperAuthIDs = new Array();
-    for (let author of data.authors) {
-      thisPaperAuthIDs.push(author._id);
-    }
+    let thisPaperAuthIDs = data.authors.map((author) => author._id);
     for (let author of data.authors) {
       // Filter IDs
       const coAuthIDs = thisPaperAuthIDs.filter((x) => x !== author._id);
@@ -37,7 +33,7 @@ async function processData(path) {
         });
         // save all IDs for Indexing. and avoiding Duplicates.
         allAuthIDs.push(author._id);
-        //   Push to an Array of Models. (sending all together instead of one by one)
+        //   Push to an Array of Models. (inserting all together instead of one by one to DB)
         allAuthors.push(newAuth);
       }
     }
@@ -47,10 +43,7 @@ async function processData(path) {
   let allPapers = new Array();
   for (let data of datas) {
     //   Gather all authorsIDs for this paper
-    let thisPaperAuthIDs = new Array();
-    for (let author of data.authors) {
-      thisPaperAuthIDs.push(author._id);
-    }
+    let thisPaperAuthIDs = data.authors.map((author) => author._id);
 
     // Generate newId for this paper
     const paperId = nanoid();

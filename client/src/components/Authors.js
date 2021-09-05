@@ -37,7 +37,7 @@ export default class Authors extends React.Component {
           className="medium-p"
           id="search-bar"
           type="text"
-          placeholder="filter authors"
+          placeholder="Filter authors"
           onChange={(event) =>
             this.setState({ searchTerm: event.target.value })
           }
